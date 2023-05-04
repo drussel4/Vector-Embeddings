@@ -45,7 +45,7 @@
 ## About The Project
 
 <div align="center">
-  <a href="https://github.com/drussel4/Vector-Embeddings">
+  <a href="src/media/sample.jpg">
     <img src="src/media/sample.jpg" alt="sample">
   </a>
 </div>
