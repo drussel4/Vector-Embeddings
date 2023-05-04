@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="https://github.com/drussel4/Vector-Embeddings">
-    <img src="src/media/timeline.jpg" alt="sample">
+    <img src="src/media/sample.jpg" alt="sample">
   </a>
 </div>
 
@@ -73,7 +73,8 @@ Of those passing, 6 surpassed the hurdle rate on both title & body, 37 exceeded 
 * [Python](https://www.python.org/)
 * [Sentence-Transformers](https://www.sbert.net/docs/pretrained_models.html)
 * [Bonsai OpenSearch](https://bonsai.io/)
-* [PeakMetrics News Data](https://www.peakmetrics.com/)
+* [PeakMetrics](https://www.peakmetrics.com/)
+* [NewsGuard](https://www.peakmetrics.com/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
