@@ -6,8 +6,6 @@ csv.field_size_limit(100000000)
 # sql_filepath = 'sql/sql_thefederalist.csv'
 sql_filepath = 'sql/sql_russiatoday.csv'
 article_peakmetrics_id = '1401545673'
-# 1396035721
-# 1401545673
 article_json_filepath = 'articles/article_{}.json'.format(article_peakmetrics_id)
 
 # Read articles from csv into dict
