@@ -50,18 +50,21 @@
   </a>
 </div>
 
+<p>
 Campaigns deserve accurate and holistic opposition reseach and data. For too long, reseach has been delivered in archaic and unweildy reports, hundreds if not thousands of pages long. The Tappan Explorer delivers those same high quality insights, cited with primary sources, in a CRM that is searchable, filterable, folderable, and overall -- easier to consume.
-
-Used the "all-MiniLM-L6-v2" model from the Python module sentence_transformers:				
-			
-NOTE: Did not thoroughly compare models to find one that caters best to this use-case, went with the default recommendation from the package				
-Set a hurdle rate of 0.50 - articles having a title or a body with cosine >=0.50 compared with the original The Federalist publish were counted as "possibly similar" and retained				
-Arrived at the hurdle rate of 0.50 is based on:				
-(1) the results in the Source Comp tab, where a 0.60 "possibly similar" hurdle rate suggested matches worth reviewing				
-(2) reducing to 0.50 from 0.60 found ~50 more results, many of which are clear matches				
-Overall, the 0.50 hurdle rate is more accurately described as arbitrary than rigorously calibrated				
-63 (2.3%) articles passed the hurdle rate - rejected 2,677 (97.7%)				
-Of those passing, 6 surpassed the hurdle rate on both title & body, 37 exceeded on title, and 20 on body				
+</p>
+<p>
+Used the "all-MiniLM-L6-v2" model from the Python module [Sentence-Transformers](https://www.sbert.net/docs/pretrained_models.html). Set a hurdle rate of 0.50, meaning articles having a title or a body with cosine >=0.50 compared with the original publish were counted as "possibly similar" and retained.
+</p>
+<p>
+Arrived at the hurdle rate of 0.50 is based on:
+* The results in the Source Comp tab, where a 0.60 "possibly similar" hurdle rate suggested matches worth reviewing
+* Reducing to 0.50 from 0.60 found ~50 more results, many of which are clear matches
+<i>Overall, the 0.50 hurdle rate is more accurately described as arbitrary than rigorously calibrated</i>
+63 (2.3%) articles passed the hurdle rate - rejected 2,677 (97.7%)
+* Of those passing, 6 surpassed the hurdle rate on both title & body, 37 exceeded on title, and 20 on body
+</p>
+<p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
