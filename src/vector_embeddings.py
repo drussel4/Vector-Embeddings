@@ -27,6 +27,24 @@ with open(sql_filepath, 'rt', encoding='utf-8') as f:
         temp_dict = {k: v for k, v in zip(headers, article)}
         articles_dict[temp_dict['_id']] = temp_dict
 
+# One-off cosine() calcs
+# comp_id = '1407107239'
+# field = '_source.text'
+# # override_text = ''
+# the_federalist_vector = model.encode([articles_dict['1372248802'][field]])[0]
+# comparison_vector = model.encode([articles_dict[comp_id][field]])[0]
+# # comparison_vector = model.encode([override_text])[0]
+# result = cosine(the_federalist_vector, comparison_vector)
+# print(field, '-', result)
+# field = '_source.title'
+# # override_title = 'EXPOSED: YOUR tax dollars are being used for AI to TRACK YOU'
+# the_federalist_vector = model.encode([articles_dict['1372248802'][field]])[0]
+# comparison_vector = model.encode([articles_dict[comp_id][field]])[0]
+# # comparison_vector = model.encode([override_title])[0]
+# result = cosine(the_federalist_vector, comparison_vector)
+# print(field, '-', result)
+# raise Exception
+
 # # Retrieve articles that are stored in JSON
 # with open(articles_filepath, 'w') as outfile:
 #     json.dump(articles_dict, outfile, default=str)
