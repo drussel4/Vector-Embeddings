@@ -6,20 +6,15 @@
 <br />
 <div align="center">
   <a href="https://github.com/drussel4/Vector-Embeddings">
-    <img src="src/media/timeline.png" alt="Logo">
+    <img src="src/media/timeline.jpg" alt="timeline">
     <!-- width="80" height="80" -->
   </a>
 
 <h3 align="left">Vector Embeddings</h3>
-
   <p align="left">
-    
     The goal of this analysis is to identify a news story's traction. After initial publish, what other outlets pick up the story? Do they regurgitate the article word-for-word, or rewrite and reference? What is the audience of the distributed story, do the subsequent outlets draw traffic back to the original article? And what, if any, relationship is there between the original publisher and subsequent sites?
     
     This project sets out to begin answering those questions by using vector embeddings. Vector embeddings are a NLP method for calculating the similarity of two documents, or sentences. With a well-trained model, they allow us to measure the similarity between large batches of text, suggest the natural completion of a sentence, and more.
-
-    <br />
-    <br />
   </p>
 </div>
 
