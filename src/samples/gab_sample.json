@@ -1,0 +1,112 @@
+{
+    "_index": "doc_2023-04_7166c64f-418b-4424-b53c-b8fb7855a352",
+    "_type": "_doc",
+    "_id": "1422103370",
+    "_version": 1,
+    "_score": null,
+    "_source": {
+      "sentiment": {
+        "subjectivity": 0,
+        "polarity": 0
+      },
+      "workspace": 15574,
+      "language": "en",
+      "source": "iHeartRadio",
+      "title": "Arizona Man Laughs While Intentionally Crashing Into Cars, Police Say | iHeart",
+      "originalpath": "https://www.iheart.com/content/2023-04-26-arizona-man-laughs-while-intentionally-crashing-into-cars-police-say",
+      "wSpacemeta": {
+        "geo_domain": {
+          "countryCode": "US",
+          "stateCode": "NY"
+        },
+        "geo_primary": "40.7127753,-74.0059728",
+        "alexa_rank": 2638,
+        "audience_visits": 26137307,
+        "category": "Arts_and_Entertainment/Music",
+        "global_rank": 2322
+      },
+      "ref": "marty",
+      "topimage": "docs/15574/1422103370/thumb.webp",
+      "cvf_entities": [
+        {
+          "civicfeed_id": "Arizona",
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1,
+          "cat": "location::Arizona::",
+          "wikidata_id": "Arizona",
+          "term": "Arizona",
+          "type": "location",
+          "slug": "arizona"
+        },
+        {
+          "civicfeed_id": "Arizona",
+          "sentiment": {
+            "subjectivity": 0.4,
+            "polarity": -0.25
+          },
+          "offset": 121,
+          "cat": "location::Arizona::",
+          "wikidata_id": "Arizona",
+          "term": "Arizona",
+          "type": "location",
+          "slug": "arizona"
+        }
+      ],
+      "pretext": null,
+      "links": [
+        "https://www.iheart.com/news",
+        "https://www.iheart.com/content/iheartradio-features",
+        "https://www.iheart.com/content/iheartradio-events",
+        "https://www.iheart.com/content/2022-09-06-texas-mom-intentionally-hits-officer-with-car-because-she-was-late-for-work",
+        "https://www.iheart.com/content/2022-10-12-texas-man-lies-in-road-after-argument-with-girlfriend-gets-run-over",
+        "https://www.iheart.com/2023/04/25/man-accused-intentionally-crashing-into-cars-police-say",
+        "https://www.iheart.com/content/general-contesting-guidelines",
+        "https://www.iheart.com/content/undefined"
+      ],
+      "id": 1422103370,
+      "text": "Photo Maricopa County Sheriff's OfficeAn Arizona man is now behind bars after an alleged crime spree over the weekend. Lynn Camplin is accused of intentionally crashing into cars, throwing rocks at cars and running over a man, WBTV reports. A woman told officials she saw the 48-year-old man laughing as he tried to ram his pickup truck into her vehicle. In another incident, Camplin reportedly drove into the Arizona Mills parking lot and stopped, facing a Corvette. The man revved his engine, hit the gas and smashed into the vehicle on the driver's side. There was a man inside the vehicle, who had to be rescued by firefighters. He was rushed to the hospital with a brain bleed. Witnesses told police this Corvette incident was intentional because of the placement of his vehicle. The parking lot was nearly empty, witnesses added. Camplin then hit another car in the parking lot that had two people inside. No injuries were reported in this incident. The man then made his way onto Priest Drive, where he made his way to 48th Street and Southern Avenue. Here, he is accused of pulling up behind a driver and hitting her car after revving his engine. The woman involved in the accident got out of her vehicle and made her way to Camplin's vehicle. The man reached inside his vehicle and the woman thought he was going to grab a gun. The woman drove off while Camplin also fled the scene. Similar to the previous incident, the woman told police he intentionally crashed into her car. The man is also accused of throwing rocks at three cars near 48th Street and Broadway Road. Officials said Camplin was also involved in two other hit-and-runs in the area in additional to erratically driving and running over a man. Camplin got out of his car, ran toward the victim, picked him up and threw him on the ground before running him over. Police finally caught up with Camplin near 48th Street and Broadway Road and took him into custody. After a trip to the hospital, doctors found signs of drug use, including sweating and a high pulse and blood pressure. Camplin was booked on endangerment, deadly aggravated assault, aggravated DUI, aggravated assault, criminal damage and hit-and-run charges. ",
+      "Content-Type": "text/html",
+      "owner": "7166c64f-418b-4424-b53c-b8fb7855a352",
+      "geo_primary": "40.7127753,-74.0059728",
+      "diff_date": 0,
+      "created": 1682607760699,
+      "url": "https://www.iheart.com/content/2023-04-26-arizona-man-laughs-while-intentionally-crashing-into-cars-police-say",
+      "tags": [
+        "news",
+        "news-us",
+        "news-glob",
+        "news-us-ny"
+      ],
+      "processed": 1682607760963,
+      "is_original_title": true,
+      "filename": "Arizona Man Laughs While Intentionally Crashing Into Cars, Police Say | iHeart",
+      "filename_pretty": "Arizona Man Laughs While Intentionally Crashing Into Cars, Police Say | iHeart",
+      "domain": "iheart.com",
+      "geo_secondary": [
+        "40.7127753,-74.0059728"
+      ],
+      "publish_date": 1682607760
+    },
+    "fields": {
+      "processed": [
+        "2023-04-27T15:02:40.963Z"
+      ],
+      "publish_date": [
+        "1970-01-20T11:23:27.760Z"
+      ],
+      "created": [
+        "2023-04-27T15:02:40.699Z"
+      ]
+    },
+    "highlight": {
+      "domain": [
+        "@opensearch-dashboards-highlighted-field@iheart.com@/opensearch-dashboards-highlighted-field@"
+      ]
+    },
+    "sort": [
+      1682607760699
+    ]
+  }

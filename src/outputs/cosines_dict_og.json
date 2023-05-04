@@ -1,0 +1,5732 @@
+{
+    "1393802532": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1396035721": {
+        "id": "1419867214",
+        "cosine": "0.8696059",
+        "confidence": "likely"
+    },
+    "1396469849": {
+        "id": "1418165035",
+        "cosine": "0.81937116",
+        "confidence": "possible"
+    },
+    "1396445426": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1398261084": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1398148582": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1397159147": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1412411294": {
+        "id": "1412301002",
+        "cosine": "0.85612756",
+        "confidence": "likely"
+    },
+    "1403726195": {
+        "id": "1409591695",
+        "cosine": "0.7865625",
+        "confidence": "possible"
+    },
+    "1411315705": {
+        "id": "1415594569",
+        "cosine": "0.75065905",
+        "confidence": "possible"
+    },
+    "1412769478": {
+        "id": "1421845160",
+        "cosine": "0.8579181",
+        "confidence": "likely"
+    },
+    "1413339065": {
+        "id": "1415149851",
+        "cosine": "0.7872609",
+        "confidence": "possible"
+    },
+    "1402319988": {
+        "id": "1405310254",
+        "cosine": "0.7715401",
+        "confidence": "possible"
+    },
+    "1418603316": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1419526418": {
+        "id": "1419832927",
+        "cosine": "0.82459795",
+        "confidence": "possible"
+    },
+    "1418163855": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1421402706": {
+        "id": "1421151615",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1421164761": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1422665670": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1394395690": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1401099748": {
+        "id": "1401253740",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1402346262": {
+        "id": "1406120742",
+        "cosine": "0.8205911",
+        "confidence": "possible"
+    },
+    "1398855818": {
+        "id": "1401253740",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1398261117": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1406020601": {
+        "id": "1422382779",
+        "cosine": "0.8247019",
+        "confidence": "possible"
+    },
+    "1410046888": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1406078843": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1411250836": {
+        "id": "1423271926",
+        "cosine": "0.8156074",
+        "confidence": "possible"
+    },
+    "1413191796": {
+        "id": "1421845160",
+        "cosine": "0.8006423",
+        "confidence": "possible"
+    },
+    "1404056608": {
+        "id": "1404284554",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1404140165": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1419720298": {
+        "id": "1419685961",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1402286656": {
+        "id": "1405310254",
+        "cosine": "0.7964631",
+        "confidence": "possible"
+    },
+    "1420086921": {
+        "id": "1419685961",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1421083948": {
+        "id": "1421151615",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1420851117": {
+        "id": "1421151615",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1421402571": {
+        "id": "1421151615",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1420159171": {
+        "id": "1421151615",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1396844010": {
+        "id": "1406120222",
+        "cosine": "0.90216684",
+        "confidence": "likely"
+    },
+    "1394314252": {
+        "id": "1406120222",
+        "cosine": "0.88373524",
+        "confidence": "likely"
+    },
+    "1395102909": {
+        "id": "1412301002",
+        "cosine": "0.84198576",
+        "confidence": "possible"
+    },
+    "1398261049": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1392203684": {
+        "id": "1398115615",
+        "cosine": "0.8178205",
+        "confidence": "possible"
+    },
+    "1391078681": {
+        "id": "1409198769",
+        "cosine": "0.7557916",
+        "confidence": "possible"
+    },
+    "1406721540": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1407062816": {
+        "id": "1411993092",
+        "cosine": "0.7746772",
+        "confidence": "possible"
+    },
+    "1409362462": {
+        "id": "1412800512",
+        "cosine": "0.7709305",
+        "confidence": "possible"
+    },
+    "1409795557": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1409795335": {
+        "id": "1415594567",
+        "cosine": "0.75405407",
+        "confidence": "possible"
+    },
+    "1405201062": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1411937186": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1402314534": {
+        "id": "1406120742",
+        "cosine": "0.8205911",
+        "confidence": "possible"
+    },
+    "1402569951": {
+        "id": "1420475121",
+        "cosine": "0.8404181",
+        "confidence": "possible"
+    },
+    "1403835647": {
+        "id": "1404284554",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1404396927": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1414750469": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1420806603": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1421402921": {
+        "id": "1419685961",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1420095545": {
+        "id": "1419685961",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1303859911": {
+        "id": "1303223551",
+        "cosine": "0.9092696",
+        "confidence": "likely"
+    },
+    "1292611517": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1292237110": {
+        "id": "1303944815",
+        "cosine": "0.78569996",
+        "confidence": "possible"
+    },
+    "1308373888": {
+        "id": "1314540013",
+        "cosine": "0.9052504",
+        "confidence": "likely"
+    },
+    "1310313088": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1311036922": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1298158838": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1318026646": {
+        "id": "1358092320",
+        "cosine": "0.8616691",
+        "confidence": "likely"
+    },
+    "1318939645": {
+        "id": "1401629779",
+        "cosine": "0.863244",
+        "confidence": "likely"
+    },
+    "1297057051": {
+        "id": "1383589671",
+        "cosine": "0.8561497",
+        "confidence": "likely"
+    },
+    "1302711982": {
+        "id": "1366895346",
+        "cosine": "0.7849688",
+        "confidence": "possible"
+    },
+    "1293824214": {
+        "id": "1331731455",
+        "cosine": "0.7644179",
+        "confidence": "possible"
+    },
+    "1300996650": {
+        "id": "1368153546",
+        "cosine": "0.7832045",
+        "confidence": "possible"
+    },
+    "1315266682": {
+        "id": "1331726339",
+        "cosine": "0.8480876",
+        "confidence": "possible"
+    },
+    "1317214760": {
+        "id": "1376481273",
+        "cosine": "0.8572751",
+        "confidence": "likely"
+    },
+    "1323026317": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1323255835": {
+        "id": "1365446298",
+        "cosine": "0.8223372",
+        "confidence": "possible"
+    },
+    "1364124094": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361439182": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363034152": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363176437": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361340693": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361968876": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1357133456": {
+        "id": "1385769997",
+        "cosine": "0.8569509",
+        "confidence": "likely"
+    },
+    "1357157141": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1356892523": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1360701512": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1360477264": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1355296458": {
+        "id": "1354671610",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1355497715": {
+        "id": "1374792884",
+        "cosine": "0.79578555",
+        "confidence": "possible"
+    },
+    "1354735459": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1354367915": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1367775248": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1375903757": {
+        "id": "1378505319",
+        "cosine": "0.8855772",
+        "confidence": "likely"
+    },
+    "1372658949": {
+        "id": "1415598235",
+        "cosine": "0.8488474",
+        "confidence": "possible"
+    },
+    "1368819877": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1368819881": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1379309197": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1378492687": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1380493741": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1380952086": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1379539862": {
+        "id": "1399548057",
+        "cosine": "0.7930047",
+        "confidence": "possible"
+    },
+    "1381618736": {
+        "id": "1407832127",
+        "cosine": "0.8364964",
+        "confidence": "possible"
+    },
+    "1384450241": {
+        "id": "1403673757",
+        "cosine": "0.81310886",
+        "confidence": "possible"
+    },
+    "1387504896": {
+        "id": "1406120204",
+        "cosine": "0.80442476",
+        "confidence": "possible"
+    },
+    "1389633633": {
+        "id": "1403673897",
+        "cosine": "0.8538237",
+        "confidence": "likely"
+    },
+    "1353328396": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1363617161": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363134689": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361141242": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1360865952": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1365251868": {
+        "id": "1406120237",
+        "cosine": "0.8519773",
+        "confidence": "likely"
+    },
+    "1367065421": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1355510919": {
+        "id": "1354671610",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1355462748": {
+        "id": "1381919481",
+        "cosine": "0.84249246",
+        "confidence": "possible"
+    },
+    "1354735469": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1353826781": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1366908348": {
+        "id": "1409388475",
+        "cosine": "0.85790133",
+        "confidence": "likely"
+    },
+    "1380165332": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1375817000": {
+        "id": "1390437479",
+        "cosine": "0.753613",
+        "confidence": "possible"
+    },
+    "1375826280": {
+        "id": "1380815046",
+        "cosine": "0.8891706",
+        "confidence": "likely"
+    },
+    "1370945176": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1378730240": {
+        "id": "1397278866",
+        "cosine": "0.8383184",
+        "confidence": "possible"
+    },
+    "1377283110": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1377603436": {
+        "id": "1415594560",
+        "cosine": "0.8666607",
+        "confidence": "likely"
+    },
+    "1373371385": {
+        "id": "1399104394",
+        "cosine": "0.8688703",
+        "confidence": "likely"
+    },
+    "1369707640": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1369335491": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1368819878": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1385024490": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1385497673": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1385475822": {
+        "id": "1409592129",
+        "cosine": "0.8191394",
+        "confidence": "possible"
+    },
+    "1385777978": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1387469542": {
+        "id": "1396944860",
+        "cosine": "0.80816936",
+        "confidence": "possible"
+    },
+    "1389340792": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1390619521": {
+        "id": "1397278866",
+        "cosine": "0.8625525",
+        "confidence": "likely"
+    },
+    "1356409332": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1357173510": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1358157451": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1362370076": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1356052946": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1362883309": {
+        "id": "1390977056",
+        "cosine": "0.8422909",
+        "confidence": "possible"
+    },
+    "1364156619": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1364327027": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1360443299": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1370289825": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1369668196": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1368802917": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1371002004": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1376235427": {
+        "id": "1395909687",
+        "cosine": "0.90315086",
+        "confidence": "likely"
+    },
+    "1367064914": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1378266235": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1376414282": {
+        "id": "1378657936",
+        "cosine": "0.8364531",
+        "confidence": "possible"
+    },
+    "1369617311": {
+        "id": "1397278866",
+        "cosine": "0.8510206",
+        "confidence": "likely"
+    },
+    "1370128416": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1366715846": {
+        "id": "1391185377",
+        "cosine": "0.82395077",
+        "confidence": "possible"
+    },
+    "1379691487": {
+        "id": "1391425875",
+        "cosine": "0.791404",
+        "confidence": "possible"
+    },
+    "1381722955": {
+        "id": "1403305975",
+        "cosine": "0.7700549",
+        "confidence": "possible"
+    },
+    "1379746696": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1382108358": {
+        "id": "1420281089",
+        "cosine": "0.78993565",
+        "confidence": "possible"
+    },
+    "1384654972": {
+        "id": "1388189956",
+        "cosine": "0.8631362",
+        "confidence": "likely"
+    },
+    "1384385383": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1385039644": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1385124382": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1386929194": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1387236195": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1388641133": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1390920794": {
+        "id": "1394480076",
+        "cosine": "0.8277701",
+        "confidence": "possible"
+    },
+    "1396318373": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1396368297": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1395675565": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1396862586": {
+        "id": "1414994339",
+        "cosine": "0.8092571",
+        "confidence": "possible"
+    },
+    "1393694163": {
+        "id": "1399146914",
+        "cosine": "0.7858015",
+        "confidence": "possible"
+    },
+    "1402075808": {
+        "id": "1409591593",
+        "cosine": "0.8869362",
+        "confidence": "likely"
+    },
+    "1405613499": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1410047538": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1409323075": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1412074658": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1412750430": {
+        "id": "1415594572",
+        "cosine": "0.84334403",
+        "confidence": "possible"
+    },
+    "1411478215": {
+        "id": "1420281089",
+        "cosine": "0.7733584",
+        "confidence": "possible"
+    },
+    "1411855190": {
+        "id": "1412924595",
+        "cosine": "0.77014095",
+        "confidence": "possible"
+    },
+    "1404139696": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1403835654": {
+        "id": "1404284554",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1406565293": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1402937635": {
+        "id": "1404284554",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1402983939": {
+        "id": "1404284554",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1414779039": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1413911777": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1416682286": {
+        "id": "1416457033",
+        "cosine": "0.7662747",
+        "confidence": "possible"
+    },
+    "1419741305": {
+        "id": "1420673245",
+        "cosine": "0.7607612",
+        "confidence": "possible"
+    },
+    "1421402572": {
+        "id": "1419685961",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1421917738": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1420823224": {
+        "id": "1421151615",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1423421871": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1396005389": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1396987912": {
+        "id": "1399548091",
+        "cosine": "0.84043866",
+        "confidence": "possible"
+    },
+    "1399180978": {
+        "id": "1401253740",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1394716460": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1393817207": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1395028474": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1395487838": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1398917934": {
+        "id": "1401253740",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1398261115": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1398261287": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1392204022": {
+        "id": "1398080748",
+        "cosine": "0.8640703",
+        "confidence": "likely"
+    },
+    "1406081416": {
+        "id": "1419285329",
+        "cosine": "0.78119904",
+        "confidence": "possible"
+    },
+    "1406058965": {
+        "id": "1410399067",
+        "cosine": "0.79923916",
+        "confidence": "possible"
+    },
+    "1406038767": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1405047151": {
+        "id": "1412924599",
+        "cosine": "0.8129607",
+        "confidence": "possible"
+    },
+    "1405442564": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1411337681": {
+        "id": "1419867214",
+        "cosine": "0.8392578",
+        "confidence": "possible"
+    },
+    "1409698535": {
+        "id": "1415594560",
+        "cosine": "0.8568033",
+        "confidence": "likely"
+    },
+    "1417417199": {
+        "id": "1421845160",
+        "cosine": "0.7720134",
+        "confidence": "possible"
+    },
+    "1419013635": {
+        "id": "1419685961",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1416682288": {
+        "id": "1419899110",
+        "cosine": "0.82116586",
+        "confidence": "possible"
+    },
+    "1419477358": {
+        "id": "1420673245",
+        "cosine": "0.8054522",
+        "confidence": "possible"
+    },
+    "1419834852": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1414383597": {
+        "id": "1417149511",
+        "cosine": "0.83569235",
+        "confidence": "possible"
+    },
+    "1414119581": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1421693651": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1423061527": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1359765370": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361968894": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1362329763": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1362370007": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363121405": {
+        "id": "1406919628",
+        "cosine": "0.8749158",
+        "confidence": "likely"
+    },
+    "1361647087": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361647089": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1354735596": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1376132104": {
+        "id": "1385435986",
+        "cosine": "0.84474343",
+        "confidence": "possible"
+    },
+    "1376568877": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1371608886": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1371397346": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1378513476": {
+        "id": "1415594574",
+        "cosine": "0.84712213",
+        "confidence": "possible"
+    },
+    "1378932476": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1378861213": {
+        "id": "1395114973",
+        "cosine": "0.79708487",
+        "confidence": "possible"
+    },
+    "1379221930": {
+        "id": "1406120222",
+        "cosine": "0.92372555",
+        "confidence": "likely"
+    },
+    "1378499148": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1375735072": {
+        "id": "1402040339",
+        "cosine": "0.82970357",
+        "confidence": "possible"
+    },
+    "1367065174": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1367750609": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1368294699": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1378269351": {
+        "id": "1397475092",
+        "cosine": "0.8592393",
+        "confidence": "likely"
+    },
+    "1368820830": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1368821501": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1369440032": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1379647507": {
+        "id": "1397018659",
+        "cosine": "0.7954097",
+        "confidence": "possible"
+    },
+    "1380951897": {
+        "id": "1419391634",
+        "cosine": "0.77254105",
+        "confidence": "possible"
+    },
+    "1384353308": {
+        "id": "1411933143",
+        "cosine": "0.831156",
+        "confidence": "possible"
+    },
+    "1386707929": {
+        "id": "1421845160",
+        "cosine": "0.78871065",
+        "confidence": "possible"
+    },
+    "1387186326": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1387518494": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1388536623": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1398887755": {
+        "id": "1401253740",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1397921694": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1394382769": {
+        "id": "1419391634",
+        "cosine": "0.7749445",
+        "confidence": "possible"
+    },
+    "1393884567": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1399416061": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1396424170": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1397470685": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1397191577": {
+        "id": "1402395933",
+        "cosine": "0.82345843",
+        "confidence": "possible"
+    },
+    "1393205429": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1401445177": {
+        "id": "1401253740",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1406302314": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1411201609": {
+        "id": "1412353281",
+        "cosine": "0.89400226",
+        "confidence": "likely"
+    },
+    "1411039703": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1409795304": {
+        "id": "1417149511",
+        "cosine": "0.78137815",
+        "confidence": "possible"
+    },
+    "1403432166": {
+        "id": "1419517276",
+        "cosine": "0.8682461",
+        "confidence": "likely"
+    },
+    "1403464973": {
+        "id": "1409591695",
+        "cosine": "0.7865625",
+        "confidence": "possible"
+    },
+    "1403716208": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1404472447": {
+        "id": "1404284554",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1412612715": {
+        "id": "1419391634",
+        "cosine": "0.7914234",
+        "confidence": "possible"
+    },
+    "1412254626": {
+        "id": "1419391634",
+        "cosine": "0.80673414",
+        "confidence": "possible"
+    },
+    "1412836420": {
+        "id": "1415594565",
+        "cosine": "0.8466583",
+        "confidence": "possible"
+    },
+    "1402914837": {
+        "id": "1404284554",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1420044740": {
+        "id": "1419685961",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1420709221": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1421164762": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1422483351": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1422593732": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1423354720": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1397099001": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1397451365": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1395623367": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1394537741": {
+        "id": "1398115755",
+        "cosine": "0.91953534",
+        "confidence": "likely"
+    },
+    "1394671707": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1394685017": {
+        "id": "1406120193",
+        "cosine": "0.7959997",
+        "confidence": "possible"
+    },
+    "1393600448": {
+        "id": "1404810482",
+        "cosine": "0.8734309",
+        "confidence": "likely"
+    },
+    "1393895869": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1401919355": {
+        "id": "1402858085",
+        "cosine": "0.82731706",
+        "confidence": "possible"
+    },
+    "1402966698": {
+        "id": "1404284554",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1409795332": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1410706038": {
+        "id": "1420475101",
+        "cosine": "0.7514703",
+        "confidence": "possible"
+    },
+    "1409616352": {
+        "id": "1408963978",
+        "cosine": "0.79189503",
+        "confidence": "possible"
+    },
+    "1411349951": {
+        "id": "1415594699",
+        "cosine": "0.8188782",
+        "confidence": "possible"
+    },
+    "1403835718": {
+        "id": "1404284554",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1414647175": {
+        "id": "1415594560",
+        "cosine": "0.90974545",
+        "confidence": "likely"
+    },
+    "1414776016": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1413898266": {
+        "id": "1416081125",
+        "cosine": "0.7625606",
+        "confidence": "possible"
+    },
+    "1415464527": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1415386903": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1416682293": {
+        "id": "1416553129",
+        "cosine": "0.83825064",
+        "confidence": "possible"
+    },
+    "1418328605": {
+        "id": "1420673245",
+        "cosine": "0.7876783",
+        "confidence": "possible"
+    },
+    "1418343632": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1419475079": {
+        "id": "1420673245",
+        "cosine": "0.7854789",
+        "confidence": "possible"
+    },
+    "1422412515": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1422045679": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1420870877": {
+        "id": "1421151615",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1421917739": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361130303": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361117946": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363382737": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361724623": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1357384460": {
+        "id": "1394251909",
+        "cosine": "0.80930245",
+        "confidence": "possible"
+    },
+    "1356508798": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1354368419": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1355956663": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361647088": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1354735456": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1368270508": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1377217335": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1372634668": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1371397390": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1369383693": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1371060517": {
+        "id": "1372475580",
+        "cosine": "0.89283556",
+        "confidence": "likely"
+    },
+    "1370114544": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1367348097": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1378658990": {
+        "id": "1398080748",
+        "cosine": "0.85503924",
+        "confidence": "likely"
+    },
+    "1378793758": {
+        "id": "1394544485",
+        "cosine": "0.8838737",
+        "confidence": "likely"
+    },
+    "1379164191": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1379249218": {
+        "id": "1423271905",
+        "cosine": "0.7915504",
+        "confidence": "possible"
+    },
+    "1378566737": {
+        "id": "1409591589",
+        "cosine": "0.8362719",
+        "confidence": "possible"
+    },
+    "1377688692": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1380835712": {
+        "id": "1415594546",
+        "cosine": "0.8001087",
+        "confidence": "possible"
+    },
+    "1384633468": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1384969050": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1385600375": {
+        "id": "1403256253",
+        "cosine": "0.83926225",
+        "confidence": "possible"
+    },
+    "1384676543": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1387631776": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1388814716": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1390557829": {
+        "id": "1389240400",
+        "cosine": "0.8109237",
+        "confidence": "possible"
+    },
+    "1389799452": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1394620683": {
+        "id": "1412924599",
+        "cosine": "0.8186815",
+        "confidence": "possible"
+    },
+    "1396198737": {
+        "id": "1415594559",
+        "cosine": "0.9032756",
+        "confidence": "likely"
+    },
+    "1395653594": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1397402421": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1393407886": {
+        "id": "1406120193",
+        "cosine": "0.83158267",
+        "confidence": "possible"
+    },
+    "1394096594": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1393934560": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1394083415": {
+        "id": "1404925985",
+        "cosine": "0.7828504",
+        "confidence": "possible"
+    },
+    "1398261116": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1398261101": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1406477426": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1403835717": {
+        "id": "1404284554",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1403835843": {
+        "id": "1404284554",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1409330535": {
+        "id": "1416471312",
+        "cosine": "0.852121",
+        "confidence": "likely"
+    },
+    "1411380647": {
+        "id": "1411613019",
+        "cosine": "0.84377587",
+        "confidence": "possible"
+    },
+    "1405461202": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1405425621": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1403010950": {
+        "id": "1404284554",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1408887851": {
+        "id": "1410886597",
+        "cosine": "0.8139578",
+        "confidence": "possible"
+    },
+    "1413774099": {
+        "id": "1413670720",
+        "cosine": "0.85889196",
+        "confidence": "likely"
+    },
+    "1414855292": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1414794155": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1414359996": {
+        "id": "1419867214",
+        "cosine": "0.8617003",
+        "confidence": "likely"
+    },
+    "1418350548": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1419067116": {
+        "id": "1420673245",
+        "cosine": "0.7769095",
+        "confidence": "possible"
+    },
+    "1421164753": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1421402705": {
+        "id": "1421151615",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1421972048": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1422583613": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1339341852": {
+        "id": "1338892295",
+        "cosine": "0.8907586",
+        "confidence": "likely"
+    },
+    "1342143824": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1342026345": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1339358328": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1338609481": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1336806565": {
+        "id": "1377596802",
+        "cosine": "0.83942765",
+        "confidence": "possible"
+    },
+    "1337464134": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1329953713": {
+        "id": "1412353281",
+        "cosine": "0.81684566",
+        "confidence": "possible"
+    },
+    "1332036670": {
+        "id": "1351909749",
+        "cosine": "0.81846726",
+        "confidence": "possible"
+    },
+    "1333218768": {
+        "id": "1397278866",
+        "cosine": "0.88091815",
+        "confidence": "likely"
+    },
+    "1337128855": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1330315566": {
+        "id": "1375235988",
+        "cosine": "0.7666814",
+        "confidence": "possible"
+    },
+    "1330315541": {
+        "id": "1412348805",
+        "cosine": "0.78365153",
+        "confidence": "possible"
+    },
+    "1332470722": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1333197045": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1326261536": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1348757259": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1349918453": {
+        "id": "1374951583",
+        "cosine": "0.8644811",
+        "confidence": "likely"
+    },
+    "1352322748": {
+        "id": "1352081448",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1352763860": {
+        "id": "1352321621",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1331993681": {
+        "id": "1331813371",
+        "cosine": "0.85960877",
+        "confidence": "likely"
+    },
+    "1334785024": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1325143507": {
+        "id": "1396944752",
+        "cosine": "0.8335081",
+        "confidence": "possible"
+    },
+    "1325955922": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1324604550": {
+        "id": "1352554492",
+        "cosine": "0.79920244",
+        "confidence": "possible"
+    },
+    "1326862438": {
+        "id": "1365393572",
+        "cosine": "0.7839847",
+        "confidence": "possible"
+    },
+    "1331993671": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1340883938": {
+        "id": "1402040339",
+        "cosine": "0.7834195",
+        "confidence": "possible"
+    },
+    "1340883912": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1337464135": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1344770081": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1345885848": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1345619037": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1341683244": {
+        "id": "1349521200",
+        "cosine": "0.87305737",
+        "confidence": "likely"
+    },
+    "1336908395": {
+        "id": "1395909687",
+        "cosine": "0.84415287",
+        "confidence": "possible"
+    },
+    "1347648918": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1347279837": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1348757250": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1348757253": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1348757292": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1353302009": {
+        "id": "1385769997",
+        "cosine": "0.8563999",
+        "confidence": "likely"
+    },
+    "1373188294": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1377864827": {
+        "id": "1391425875",
+        "cosine": "0.81336683",
+        "confidence": "possible"
+    },
+    "1375831983": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1370114531": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1370996743": {
+        "id": "1403503221",
+        "cosine": "0.8732578",
+        "confidence": "likely"
+    },
+    "1368819880": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1368819876": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1373575547": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363820502": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1363851668": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1360865835": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1360865971": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361187888": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361117945": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1356797976": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363556673": {
+        "id": "1398115762",
+        "cosine": "0.7758087",
+        "confidence": "possible"
+    },
+    "1367064920": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1367868678": {
+        "id": "1377596802",
+        "cosine": "0.7908016",
+        "confidence": "possible"
+    },
+    "1354358188": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1355576512": {
+        "id": "1401661156",
+        "cosine": "0.8229717",
+        "confidence": "possible"
+    },
+    "1360477288": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1360477317": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1354735454": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1354718769": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1385777979": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1386173102": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1386052393": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1389791004": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1389341046": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1389340831": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1389340823": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1389772027": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1390249698": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1390729886": {
+        "id": "1397278866",
+        "cosine": "0.87656206",
+        "confidence": "likely"
+    },
+    "1392203712": {
+        "id": "1393065949",
+        "cosine": "0.8279352",
+        "confidence": "possible"
+    },
+    "1393100534": {
+        "id": "1403286109",
+        "cosine": "0.7819432",
+        "confidence": "possible"
+    },
+    "1393549179": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1393177608": {
+        "id": "1398080748",
+        "cosine": "0.86346185",
+        "confidence": "likely"
+    },
+    "1395774236": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1397531343": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1397535556": {
+        "id": "1402040339",
+        "cosine": "0.7562532",
+        "confidence": "possible"
+    },
+    "1401099743": {
+        "id": "1401253740",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1401216983": {
+        "id": "1401253740",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1401244133": {
+        "id": "1401253740",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1401851838": {
+        "id": "1404902798",
+        "cosine": "0.90239316",
+        "confidence": "likely"
+    },
+    "1398185359": {
+        "id": "1401967506",
+        "cosine": "0.82095826",
+        "confidence": "possible"
+    },
+    "1398261362": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1391479207": {
+        "id": "1406120222",
+        "cosine": "0.90657854",
+        "confidence": "likely"
+    },
+    "1407062959": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1407063464": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1409640927": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1409696204": {
+        "id": "1410399067",
+        "cosine": "0.772461",
+        "confidence": "possible"
+    },
+    "1412819207": {
+        "id": "1417483393",
+        "cosine": "0.81539065",
+        "confidence": "possible"
+    },
+    "1403120720": {
+        "id": "1406120237",
+        "cosine": "0.8678141",
+        "confidence": "likely"
+    },
+    "1403427108": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1403445244": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1404909481": {
+        "id": "1407776488",
+        "cosine": "0.8370117",
+        "confidence": "possible"
+    },
+    "1413707142": {
+        "id": "1420281089",
+        "cosine": "0.7652407",
+        "confidence": "possible"
+    },
+    "1417484165": {
+        "id": "1420322446",
+        "cosine": "0.7647124",
+        "confidence": "possible"
+    },
+    "1412556413": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1418093433": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1417753151": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1421402568": {
+        "id": "1421151615",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1423056180": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1360345822": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1357384455": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363188387": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363267612": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361521115": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361725045": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1359828383": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1359848634": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361968463": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1360477306": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1365399591": {
+        "id": "1397278866",
+        "cosine": "0.7865742",
+        "confidence": "possible"
+    },
+    "1367046231": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1355296457": {
+        "id": "1354671610",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1355849365": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1355500496": {
+        "id": "1354671610",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1354735473": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1353328398": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1372867433": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1371565289": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1371608878": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1371119152": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1370021704": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1370105247": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1370951438": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1378961840": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1368819875": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1368819882": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1368616046": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1380695119": {
+        "id": "1415535956",
+        "cosine": "0.86791027",
+        "confidence": "likely"
+    },
+    "1380453505": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1379746808": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1379747195": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1381264035": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1385051637": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1385778325": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1385778343": {
+        "id": "1408964826",
+        "cosine": "0.824537",
+        "confidence": "possible"
+    },
+    "1330315630": {
+        "id": "1397278866",
+        "cosine": "0.8494556",
+        "confidence": "possible"
+    },
+    "1329987328": {
+        "id": "1420673245",
+        "cosine": "0.8471201",
+        "confidence": "possible"
+    },
+    "1331447278": {
+        "id": "1388085932",
+        "cosine": "0.81011844",
+        "confidence": "possible"
+    },
+    "1332980221": {
+        "id": "1378862993",
+        "cosine": "0.822013",
+        "confidence": "possible"
+    },
+    "1332296839": {
+        "id": "1331813371",
+        "cosine": "0.8576769",
+        "confidence": "likely"
+    },
+    "1331804616": {
+        "id": "1366251574",
+        "cosine": "0.8154202",
+        "confidence": "possible"
+    },
+    "1333685207": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1332470727": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1340883908": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1340883935": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1340883902": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1339588895": {
+        "id": "1415594699",
+        "cosine": "0.7686133",
+        "confidence": "possible"
+    },
+    "1344752514": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1345917423": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1346279732": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1347748756": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1348503953": {
+        "id": "1412924631",
+        "cosine": "0.8130786",
+        "confidence": "possible"
+    },
+    "1350084116": {
+        "id": "1365446298",
+        "cosine": "0.77609026",
+        "confidence": "possible"
+    },
+    "1351993574": {
+        "id": "1352081448",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1352027870": {
+        "id": "1352081448",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1352369709": {
+        "id": "1352081448",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1352742278": {
+        "id": "1378592292",
+        "cosine": "0.84206945",
+        "confidence": "possible"
+    },
+    "1352762592": {
+        "id": "1352321621",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1330315563": {
+        "id": "1345552451",
+        "cosine": "0.8822536",
+        "confidence": "likely"
+    },
+    "1331447268": {
+        "id": "1402040339",
+        "cosine": "0.8088286",
+        "confidence": "possible"
+    },
+    "1331445690": {
+        "id": "1402395933",
+        "cosine": "0.8452748",
+        "confidence": "possible"
+    },
+    "1331869370": {
+        "id": "1331813371",
+        "cosine": "0.924801",
+        "confidence": "likely"
+    },
+    "1332470721": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1334785022": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1328073053": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1335430029": {
+        "id": "1423015061",
+        "cosine": "0.76298755",
+        "confidence": "possible"
+    },
+    "1331993679": {
+        "id": "1379601491",
+        "cosine": "0.8123307",
+        "confidence": "possible"
+    },
+    "1325957373": {
+        "id": "1398115588",
+        "cosine": "0.8342177",
+        "confidence": "possible"
+    },
+    "1342143809": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1344570970": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1345113245": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1345613413": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1338609476": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1339254461": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1340883924": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1341511261": {
+        "id": "1417866141",
+        "cosine": "0.8771356",
+        "confidence": "likely"
+    },
+    "1348311911": {
+        "id": "1420281089",
+        "cosine": "0.8028486",
+        "confidence": "possible"
+    },
+    "1337419573": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1338171133": {
+        "id": "1382118489",
+        "cosine": "0.8156608",
+        "confidence": "possible"
+    },
+    "1337464139": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1351939633": {
+        "id": "1375890001",
+        "cosine": "0.8513889",
+        "confidence": "likely"
+    },
+    "1352106711": {
+        "id": "1352081448",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1331288277": {
+        "id": "1398080748",
+        "cosine": "0.88488024",
+        "confidence": "likely"
+    },
+    "1334734214": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1333670955": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1326907836": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1327134213": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1330315644": {
+        "id": "1399548091",
+        "cosine": "0.77317363",
+        "confidence": "possible"
+    },
+    "1329716034": {
+        "id": "1358465750",
+        "cosine": "0.7866996",
+        "confidence": "possible"
+    },
+    "1324592237": {
+        "id": "1391425875",
+        "cosine": "0.80717885",
+        "confidence": "possible"
+    },
+    "1324664290": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1339335240": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1339073309": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1346264366": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1337956250": {
+        "id": "1374882349",
+        "cosine": "0.8583847",
+        "confidence": "likely"
+    },
+    "1338189810": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1338194061": {
+        "id": "1399548057",
+        "cosine": "0.8762078",
+        "confidence": "likely"
+    },
+    "1338063731": {
+        "id": "1353908839",
+        "cosine": "0.79208827",
+        "confidence": "possible"
+    },
+    "1347085227": {
+        "id": "1401967506",
+        "cosine": "0.84765226",
+        "confidence": "possible"
+    },
+    "1337424765": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1337352649": {
+        "id": "1338965683",
+        "cosine": "0.8913503",
+        "confidence": "likely"
+    },
+    "1349489286": {
+        "id": "1399864684",
+        "cosine": "0.78731996",
+        "confidence": "possible"
+    },
+    "1349498327": {
+        "id": "1396749114",
+        "cosine": "0.82279086",
+        "confidence": "possible"
+    },
+    "1351807815": {
+        "id": "1403305975",
+        "cosine": "0.82434124",
+        "confidence": "possible"
+    },
+    "1293824536": {
+        "id": "1299001333",
+        "cosine": "0.90643877",
+        "confidence": "likely"
+    },
+    "1303853081": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1304927388": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1304752044": {
+        "id": "1308263975",
+        "cosine": "0.8355985",
+        "confidence": "possible"
+    },
+    "1307786146": {
+        "id": "1309566582",
+        "cosine": "0.87500274",
+        "confidence": "likely"
+    },
+    "1307753818": {
+        "id": "1344757932",
+        "cosine": "0.7783369",
+        "confidence": "possible"
+    },
+    "1307939962": {
+        "id": "1415049219",
+        "cosine": "0.8637166",
+        "confidence": "likely"
+    },
+    "1293729586": {
+        "id": "1375235988",
+        "cosine": "0.7952984",
+        "confidence": "possible"
+    },
+    "1293704664": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1316749547": {
+        "id": "1403308046",
+        "cosine": "0.80495363",
+        "confidence": "possible"
+    },
+    "1317731315": {
+        "id": "1412301002",
+        "cosine": "0.89355695",
+        "confidence": "likely"
+    },
+    "1317984704": {
+        "id": "1349801606",
+        "cosine": "0.8505427",
+        "confidence": "likely"
+    },
+    "1316938825": {
+        "id": "1331813371",
+        "cosine": "0.8545693",
+        "confidence": "likely"
+    },
+    "1316938824": {
+        "id": "1382165472",
+        "cosine": "0.77346087",
+        "confidence": "possible"
+    },
+    "1316749525": {
+        "id": "1349784422",
+        "cosine": "0.894157",
+        "confidence": "likely"
+    },
+    "1315262851": {
+        "id": "1366704022",
+        "cosine": "0.8199801",
+        "confidence": "possible"
+    },
+    "1311623325": {
+        "id": "1395909687",
+        "cosine": "0.8631202",
+        "confidence": "likely"
+    },
+    "1309162685": {
+        "id": "1308293722",
+        "cosine": "0.92285424",
+        "confidence": "likely"
+    },
+    "1312042006": {
+        "id": "1366895308",
+        "cosine": "0.8377027",
+        "confidence": "possible"
+    },
+    "1319951417": {
+        "id": "1382165472",
+        "cosine": "0.8322826",
+        "confidence": "possible"
+    },
+    "1319573683": {
+        "id": "1345795738",
+        "cosine": "0.8687469",
+        "confidence": "likely"
+    },
+    "1322347133": {
+        "id": "1354169668",
+        "cosine": "0.8217202",
+        "confidence": "possible"
+    },
+    "1323255871": {
+        "id": "1391454444",
+        "cosine": "0.8543973",
+        "confidence": "likely"
+    },
+    "1360189903": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361438209": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1359936919": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1362114495": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361647090": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363337060": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363337059": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363720258": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1364156623": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1356427759": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1356464530": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1355956678": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1355840589": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1355868351": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1355614328": {
+        "id": "1368651712",
+        "cosine": "0.8778833",
+        "confidence": "likely"
+    },
+    "1353328344": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1376533031": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1375802212": {
+        "id": "1406120252",
+        "cosine": "0.84238625",
+        "confidence": "possible"
+    },
+    "1375843319": {
+        "id": "1403673839",
+        "cosine": "0.88638175",
+        "confidence": "likely"
+    },
+    "1371037666": {
+        "id": "1377302809",
+        "cosine": "0.79310805",
+        "confidence": "possible"
+    },
+    "1378499859": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1378531038": {
+        "id": "1406120193",
+        "cosine": "0.84730506",
+        "confidence": "possible"
+    },
+    "1379518419": {
+        "id": "1382165472",
+        "cosine": "0.8666107",
+        "confidence": "likely"
+    },
+    "1379622200": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1379020246": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1379747604": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1368543250": {
+        "id": "1378592292",
+        "cosine": "0.7699925",
+        "confidence": "possible"
+    },
+    "1367275716": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1384452271": {
+        "id": "1423271926",
+        "cosine": "0.8613696",
+        "confidence": "likely"
+    },
+    "1387504897": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1387680178": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1387598478": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1386059852": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1388620029": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1388943470": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1389036449": {
+        "id": "1403503221",
+        "cosine": "0.9092831",
+        "confidence": "likely"
+    },
+    "1389585756": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1390627918": {
+        "id": "1412925365",
+        "cosine": "0.7605757",
+        "confidence": "possible"
+    },
+    "1296845769": {
+        "id": "1300651037",
+        "cosine": "0.7852932",
+        "confidence": "possible"
+    },
+    "1298441069": {
+        "id": "1334366773",
+        "cosine": "0.78701",
+        "confidence": "possible"
+    },
+    "1299788514": {
+        "id": "1339571884",
+        "cosine": "0.85222894",
+        "confidence": "likely"
+    },
+    "1295564616": {
+        "id": "1378276698",
+        "cosine": "0.83648145",
+        "confidence": "possible"
+    },
+    "1300900226": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1318026651": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1316749524": {
+        "id": "1377087647",
+        "cosine": "0.85695356",
+        "confidence": "likely"
+    },
+    "1316812901": {
+        "id": "1406531610",
+        "cosine": "0.85644674",
+        "confidence": "likely"
+    },
+    "1316812743": {
+        "id": "1365393572",
+        "cosine": "0.8553568",
+        "confidence": "likely"
+    },
+    "1317605018": {
+        "id": "1394175168",
+        "cosine": "0.8500262",
+        "confidence": "likely"
+    },
+    "1315986831": {
+        "id": "1358557133",
+        "cosine": "0.85306406",
+        "confidence": "likely"
+    },
+    "1307651595": {
+        "id": "1314540013",
+        "cosine": "0.87867475",
+        "confidence": "likely"
+    },
+    "1308086788": {
+        "id": "1336700157",
+        "cosine": "0.7751216",
+        "confidence": "possible"
+    },
+    "1308015481": {
+        "id": "1314540013",
+        "cosine": "0.90310526",
+        "confidence": "likely"
+    },
+    "1315549540": {
+        "id": "1393062071",
+        "cosine": "0.87596667",
+        "confidence": "likely"
+    },
+    "1312383562": {
+        "id": "1341344010",
+        "cosine": "0.7969857",
+        "confidence": "possible"
+    },
+    "1313274997": {
+        "id": "1344696281",
+        "cosine": "0.84316945",
+        "confidence": "possible"
+    },
+    "1311401396": {
+        "id": "1333152569",
+        "cosine": "0.8524476",
+        "confidence": "likely"
+    },
+    "1311595335": {
+        "id": "1311236146",
+        "cosine": "0.8546067",
+        "confidence": "likely"
+    },
+    "1319513354": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1320574504": {
+        "id": "1394607370",
+        "cosine": "0.88005984",
+        "confidence": "likely"
+    },
+    "1322347104": {
+        "id": "1415594560",
+        "cosine": "0.8077073",
+        "confidence": "possible"
+    },
+    "1322347132": {
+        "id": "1369232670",
+        "cosine": "0.8686487",
+        "confidence": "likely"
+    },
+    "1322347103": {
+        "id": "1334333122",
+        "cosine": "0.7781708",
+        "confidence": "possible"
+    },
+    "1321906786": {
+        "id": "1399381214",
+        "cosine": "0.8318873",
+        "confidence": "possible"
+    },
+    "1323758117": {
+        "id": "1348032857",
+        "cosine": "0.8262864",
+        "confidence": "possible"
+    },
+    "1356498834": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361246017": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361968864": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1360419543": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1360477287": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1361117976": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1366801356": {
+        "id": "1400123506",
+        "cosine": "0.8267071",
+        "confidence": "possible"
+    },
+    "1366920341": {
+        "id": "1366895393",
+        "cosine": "0.8173533",
+        "confidence": "possible"
+    },
+    "1355474889": {
+        "id": "1357516941",
+        "cosine": "0.8367711",
+        "confidence": "possible"
+    },
+    "1354611874": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1354735466": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1354735464": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1353328328": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1367924616": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1372298047": {
+        "id": "1394480076",
+        "cosine": "0.75811774",
+        "confidence": "possible"
+    },
+    "1372618674": {
+        "id": "1381268660",
+        "cosine": "0.8358114",
+        "confidence": "possible"
+    },
+    "1362746783": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363337062": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363000867": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1375820297": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1368709826": {
+        "id": "1368651712",
+        "cosine": "0.8550671",
+        "confidence": "likely"
+    },
+    "1367647109": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1378436853": {
+        "id": "1381959929",
+        "cosine": "0.8683232",
+        "confidence": "likely"
+    },
+    "1384348615": {
+        "id": "1408963981",
+        "cosine": "0.8471087",
+        "confidence": "possible"
+    },
+    "1384928566": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1384720631": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1385551337": {
+        "id": "1411933143",
+        "cosine": "0.82648444",
+        "confidence": "possible"
+    },
+    "1385559430": {
+        "id": "1406919920",
+        "cosine": "0.8241704",
+        "confidence": "possible"
+    },
+    "1386266275": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1386889841": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1388919330": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1389064447": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1387642733": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1389154092": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1390318518": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1372248802": {
+        "id": "1372475580",
+        "cosine": "0.8355853",
+        "confidence": "possible"
+    },
+    "1390665426": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1359887456": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1360699012": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1356892524": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1357283965": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1363608214": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1355912328": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1356508675": {
+        "id": "1419867214",
+        "cosine": "0.81041074",
+        "confidence": "possible"
+    },
+    "1363617137": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1354411189": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1354735460": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1354699427": {
+        "id": "1353722404",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1370011546": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1369374849": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1369643978": {
+        "id": "1379451747",
+        "cosine": "0.8098619",
+        "confidence": "possible"
+    },
+    "1372345876": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1372511296": {
+        "id": "1399611595",
+        "cosine": "0.7558142",
+        "confidence": "possible"
+    },
+    "1373038865": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1376558309": {
+        "id": "1406120222",
+        "cosine": "0.89243656",
+        "confidence": "likely"
+    },
+    "1368668870": {
+        "id": "1417940441",
+        "cosine": "0.8528329",
+        "confidence": "likely"
+    },
+    "1368445099": {
+        "id": "1394480076",
+        "cosine": "0.80386436",
+        "confidence": "possible"
+    },
+    "1368819879": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1379555179": {
+        "id": "1394251909",
+        "cosine": "0.8027998",
+        "confidence": "possible"
+    },
+    "1379746759": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1380108071": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1380628119": {
+        "id": "1397851326",
+        "cosine": "0.8917596",
+        "confidence": "likely"
+    },
+    "1380951870": {
+        "id": "1400302271",
+        "cosine": "0.7615682",
+        "confidence": "possible"
+    },
+    "1379923660": {
+        "id": "1381919481",
+        "cosine": "0.8102726",
+        "confidence": "possible"
+    },
+    "1380214686": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1382849377": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1385778344": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1384428742": {
+        "id": "1394251909",
+        "cosine": "0.8006331",
+        "confidence": "possible"
+    },
+    "1384633487": {
+        "id": "1391185377",
+        "cosine": "0.80468094",
+        "confidence": "possible"
+    },
+    "1385061028": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1388573164": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1389037867": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1389340852": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1389341045": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1389340945": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1389845072": {
+        "id": "1390662353",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1296142930": {
+        "id": "1307652667",
+        "cosine": "0.8854971",
+        "confidence": "likely"
+    },
+    "1300996649": {
+        "id": "1324736646",
+        "cosine": "0.8496593",
+        "confidence": "possible"
+    },
+    "1316812737": {
+        "id": "1405092296",
+        "cosine": "0.80945873",
+        "confidence": "possible"
+    },
+    "1292464101": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1293724986": {
+        "id": "1318709692",
+        "cosine": "0.8655576",
+        "confidence": "likely"
+    },
+    "1296693340": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1316474613": {
+        "id": "1379451747",
+        "cosine": "0.8938246",
+        "confidence": "likely"
+    },
+    "1316812746": {
+        "id": "1339760418",
+        "cosine": "0.8291692",
+        "confidence": "possible"
+    },
+    "1316624279": {
+        "id": "1420322446",
+        "cosine": "0.7687103",
+        "confidence": "possible"
+    },
+    "1319235147": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1315549512": {
+        "id": "1377302809",
+        "cosine": "0.8338703",
+        "confidence": "possible"
+    },
+    "1303774432": {
+        "id": "1378505319",
+        "cosine": "0.8339779",
+        "confidence": "possible"
+    },
+    "1309066748": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1310313061": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1303289632": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1311283583": {
+        "id": "1394251909",
+        "cosine": "0.8333601",
+        "confidence": "possible"
+    },
+    "1311466996": {
+        "id": "1377554507",
+        "cosine": "0.8616803",
+        "confidence": "likely"
+    },
+    "1312275767": {
+        "id": "1420475121",
+        "cosine": "0.8905886",
+        "confidence": "likely"
+    },
+    "1312275766": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1313204575": {
+        "id": "1323974314",
+        "cosine": "0.9166386",
+        "confidence": "likely"
+    },
+    "1302660992": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1304456030": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1304932134": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1319573642": {
+        "id": "1366895769",
+        "cosine": "0.7571074",
+        "confidence": "possible"
+    },
+    "1319573702": {
+        "id": "1381268621",
+        "cosine": "0.7531291",
+        "confidence": "possible"
+    },
+    "1322347122": {
+        "id": "1408963981",
+        "cosine": "0.821802",
+        "confidence": "possible"
+    },
+    "1318431093": {
+        "id": "1347203426",
+        "cosine": "0.7759529",
+        "confidence": "possible"
+    },
+    "1295642773": {
+        "id": "1311177541",
+        "cosine": "0.8711916",
+        "confidence": "likely"
+    },
+    "1300221684": {
+        "id": "1376481273",
+        "cosine": "0.78772044",
+        "confidence": "possible"
+    },
+    "1303859497": {
+        "id": "1303662511",
+        "cosine": "0.9063965",
+        "confidence": "likely"
+    },
+    "1302009579": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1308585493": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1308653242": {
+        "id": "1310032835",
+        "cosine": "0.85957426",
+        "confidence": "likely"
+    },
+    "1311623327": {
+        "id": "1312437143",
+        "cosine": "0.8849374",
+        "confidence": "likely"
+    },
+    "1309162707": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1310313125": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1310313076": {
+        "id": "1331302386",
+        "cosine": "0.8759377",
+        "confidence": "likely"
+    },
+    "1310313070": {
+        "id": "1320034941",
+        "cosine": "0.8708369",
+        "confidence": "likely"
+    },
+    "1293824210": {
+        "id": "1364758275",
+        "cosine": "0.8905742",
+        "confidence": "likely"
+    },
+    "1318956549": {
+        "id": "1394251909",
+        "cosine": "0.80230546",
+        "confidence": "possible"
+    },
+    "1319573628": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1315549521": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1302061462": {
+        "id": "1346779479",
+        "cosine": "0.8107234",
+        "confidence": "possible"
+    },
+    "1304694539": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1297237440": {
+        "id": "1418651226",
+        "cosine": "0.8374495",
+        "confidence": "possible"
+    },
+    "1295642778": {
+        "id": "1345795738",
+        "cosine": "0.84168535",
+        "confidence": "possible"
+    },
+    "1295642751": {
+        "id": "1297630019",
+        "cosine": "0.8036061",
+        "confidence": "possible"
+    },
+    "1304719382": {
+        "id": "1341594338",
+        "cosine": "0.8827789",
+        "confidence": "likely"
+    },
+    "1317235853": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1319573682": {
+        "id": "1414984764",
+        "cosine": "0.8397468",
+        "confidence": "possible"
+    },
+    "1322347106": {
+        "id": "1397278866",
+        "cosine": "0.85418",
+        "confidence": "likely"
+    },
+    "1322915263": {
+        "id": "1351482394",
+        "cosine": "0.85551614",
+        "confidence": "likely"
+    },
+    "1321885230": {
+        "id": "1322993191",
+        "cosine": "0.80442375",
+        "confidence": "possible"
+    },
+    "1323758116": {
+        "id": "1335808239",
+        "cosine": "0.8235648",
+        "confidence": "possible"
+    },
+    "1300996645": {
+        "id": "1377596802",
+        "cosine": "0.9061406",
+        "confidence": "likely"
+    },
+    "1300850970": {
+        "id": "1398080748",
+        "cosine": "0.82773066",
+        "confidence": "possible"
+    },
+    "1297237139": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1299999399": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1294852985": {
+        "id": "1296583097",
+        "cosine": "0.90610945",
+        "confidence": "likely"
+    },
+    "1309071023": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1293824234": {
+        "id": "1395909687",
+        "cosine": "0.8846074",
+        "confidence": "likely"
+    },
+    "1293707147": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1310234975": {
+        "id": "1394480076",
+        "cosine": "0.87267625",
+        "confidence": "likely"
+    },
+    "1312275913": {
+        "id": "1341366593",
+        "cosine": "0.78543353",
+        "confidence": "possible"
+    },
+    "1309556939": {
+        "id": "1316530112",
+        "cosine": "0.8042608",
+        "confidence": "possible"
+    },
+    "1317845670": {
+        "id": "1355330210",
+        "cosine": "0.8393972",
+        "confidence": "possible"
+    },
+    "1319573623": {
+        "id": "1356124034",
+        "cosine": "0.8686177",
+        "confidence": "likely"
+    },
+    "1316812912": {
+        "id": "1372580070",
+        "cosine": "0.87856597",
+        "confidence": "likely"
+    },
+    "1316938686": {
+        "id": "1418775833",
+        "cosine": "0.82696515",
+        "confidence": "possible"
+    },
+    "1292527064": {
+        "id": "1332167217",
+        "cosine": "0.8469142",
+        "confidence": "possible"
+    },
+    "1292199854": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1304460966": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1304927203": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1303566138": {
+        "id": "1303944815",
+        "cosine": "0.9231944",
+        "confidence": "likely"
+    },
+    "1307505533": {
+        "id": "1366527416",
+        "cosine": "0.78492314",
+        "confidence": "possible"
+    },
+    "1307487957": {
+        "id": "1374127843",
+        "cosine": "0.87141097",
+        "confidence": "likely"
+    },
+    "1311370780": {
+        "id": "1397278866",
+        "cosine": "0.8203477",
+        "confidence": "possible"
+    },
+    "1311329335": {
+        "id": "1391185377",
+        "cosine": "0.8027939",
+        "confidence": "possible"
+    },
+    "1323255837": {
+        "id": "1403582079",
+        "cosine": "0.8661112",
+        "confidence": "likely"
+    },
+    "1323153369": {
+        "id": "1394050102",
+        "cosine": "0.8566808",
+        "confidence": "likely"
+    },
+    "1323639662": {
+        "id": "1368335722",
+        "cosine": "0.8646955",
+        "confidence": "likely"
+    },
+    "1315549514": {
+        "id": "1397174703",
+        "cosine": "0.8686134",
+        "confidence": "likely"
+    },
+    "1304753751": {
+        "id": "1397174703",
+        "cosine": "0.8741934",
+        "confidence": "likely"
+    },
+    "1303757437": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1300000237": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1300006451": {
+        "id": "1396617989",
+        "cosine": "0.8686331",
+        "confidence": "likely"
+    },
+    "1300013637": {
+        "id": "1409592105",
+        "cosine": "0.840991",
+        "confidence": "possible"
+    },
+    "1300529733": {
+        "id": "1338126474",
+        "cosine": "0.82267165",
+        "confidence": "possible"
+    },
+    "1302682768": {
+        "id": "1374127843",
+        "cosine": "0.8884376",
+        "confidence": "likely"
+    },
+    "1302682569": {
+        "id": "1312437396",
+        "cosine": "0.847042",
+        "confidence": "possible"
+    },
+    "1295483826": {
+        "id": "1347203426",
+        "cosine": "0.75493866",
+        "confidence": "possible"
+    },
+    "1294972240": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1294349782": {
+        "id": "1360235628",
+        "cosine": "0.85644317",
+        "confidence": "likely"
+    },
+    "1296142933": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1308590066": {
+        "id": "1373400490",
+        "cosine": "0.7932626",
+        "confidence": "possible"
+    },
+    "1307673022": {
+        "id": "1308534171",
+        "cosine": "0.85464054",
+        "confidence": "likely"
+    },
+    "1308851447": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1318464344": {
+        "id": "1397278866",
+        "cosine": "0.88599473",
+        "confidence": "likely"
+    },
+    "1318414863": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1316812900": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1316812693": {
+        "id": "1377439833",
+        "cosine": "0.83767813",
+        "confidence": "possible"
+    },
+    "1317751445": {
+        "id": "1375007337",
+        "cosine": "0.7940095",
+        "confidence": "possible"
+    },
+    "1319242901": {
+        "id": "1351192507",
+        "cosine": "0.8093655",
+        "confidence": "possible"
+    },
+    "1322243328": {
+        "id": "1403308046",
+        "cosine": "0.7787117",
+        "confidence": "possible"
+    },
+    "1322347105": {
+        "id": "1403503221",
+        "cosine": "0.81050986",
+        "confidence": "possible"
+    },
+    "1323675810": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1323761085": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1323623625": {
+        "id": "1323726682",
+        "cosine": "0.8892965",
+        "confidence": "likely"
+    },
+    "1330310467": {
+        "id": "1376514087",
+        "cosine": "0.81527036",
+        "confidence": "possible"
+    },
+    "1329726329": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1326261518": {
+        "id": "1417945680",
+        "cosine": "0.80025613",
+        "confidence": "possible"
+    },
+    "1333710868": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1325809727": {
+        "id": "1374441585",
+        "cosine": "0.8028359",
+        "confidence": "possible"
+    },
+    "1325971973": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1327444540": {
+        "id": "1341486613",
+        "cosine": "0.7844521",
+        "confidence": "possible"
+    },
+    "1327491701": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1327115546": {
+        "id": "1365353475",
+        "cosine": "0.8244152",
+        "confidence": "possible"
+    },
+    "1346443606": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1346008221": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1346279636": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1346279664": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1345205562": {
+        "id": "1392046008",
+        "cosine": "0.8876388",
+        "confidence": "likely"
+    },
+    "1344840320": {
+        "id": "1357621700",
+        "cosine": "0.8154379",
+        "confidence": "possible"
+    },
+    "1339027742": {
+        "id": "1394011282",
+        "cosine": "0.79705167",
+        "confidence": "possible"
+    },
+    "1339672167": {
+        "id": "1395909687",
+        "cosine": "0.89735425",
+        "confidence": "likely"
+    },
+    "1340284700": {
+        "id": "1366527416",
+        "cosine": "0.757649",
+        "confidence": "possible"
+    },
+    "1344710086": {
+        "id": "1394011282",
+        "cosine": "0.79151285",
+        "confidence": "possible"
+    },
+    "1345101149": {
+        "id": "1352554492",
+        "cosine": "0.8551875",
+        "confidence": "likely"
+    },
+    "1338459288": {
+        "id": "1420673245",
+        "cosine": "0.8490938",
+        "confidence": "possible"
+    },
+    "1338602613": {
+        "id": "1373399701",
+        "cosine": "0.8551782",
+        "confidence": "likely"
+    },
+    "1340860620": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1340883930": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1340641136": {
+        "id": "1349839579",
+        "cosine": "0.8327319",
+        "confidence": "possible"
+    },
+    "1337477216": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1348692023": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1349487517": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1352789494": {
+        "id": "1352321621",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1352880266": {
+        "id": "1386749391",
+        "cosine": "0.89247364",
+        "confidence": "likely"
+    },
+    "1340873138": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1341724911": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1341735489": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1342143811": {
+        "id": "1357516941",
+        "cosine": "0.8179848",
+        "confidence": "possible"
+    },
+    "1342143817": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1342143812": {
+        "id": "1406120222",
+        "cosine": "0.8480615",
+        "confidence": "possible"
+    },
+    "1347237222": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1338609473": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1337944397": {
+        "id": "1403673757",
+        "cosine": "0.8093475",
+        "confidence": "possible"
+    },
+    "1329944489": {
+        "id": "1334396686",
+        "cosine": "0.90025675",
+        "confidence": "likely"
+    },
+    "1331195988": {
+        "id": "1392108881",
+        "cosine": "0.7913633",
+        "confidence": "possible"
+    },
+    "1330315564": {
+        "id": "1384185010",
+        "cosine": "0.86024094",
+        "confidence": "likely"
+    },
+    "1331937842": {
+        "id": "1379473245",
+        "cosine": "0.8514538",
+        "confidence": "likely"
+    },
+    "1332181354": {
+        "id": "1379451747",
+        "cosine": "0.82894367",
+        "confidence": "possible"
+    },
+    "1334479586": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1334484614": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1335180115": {
+        "id": "1388299534",
+        "cosine": "0.8613462",
+        "confidence": "likely"
+    },
+    "1332470748": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1332577365": {
+        "id": "1401967506",
+        "cosine": "0.8623675",
+        "confidence": "likely"
+    },
+    "1327137061": {
+        "id": "1394480076",
+        "cosine": "0.791588",
+        "confidence": "possible"
+    },
+    "1326260306": {
+        "id": "1408521535",
+        "cosine": "0.8310903",
+        "confidence": "possible"
+    },
+    "1326877446": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1324589541": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1324852137": {
+        "id": "1384185012",
+        "cosine": "0.8269841",
+        "confidence": "possible"
+    },
+    "1334775553": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1331959034": {
+        "id": "1379601450",
+        "cosine": "0.8594235",
+        "confidence": "likely"
+    },
+    "1348757256": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1349740547": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1352803869": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1352338204": {
+        "id": "1352321621",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1295642780": {
+        "id": "1317931601",
+        "cosine": "0.8331863",
+        "confidence": "possible"
+    },
+    "1296708531": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1296057583": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1297237163": {
+        "id": "1337297648",
+        "cosine": "0.8171579",
+        "confidence": "possible"
+    },
+    "1296845749": {
+        "id": "1309566582",
+        "cosine": "0.8024849",
+        "confidence": "possible"
+    },
+    "1317606250": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1318026642": {
+        "id": "1361094035",
+        "cosine": "0.78260475",
+        "confidence": "possible"
+    },
+    "1316749515": {
+        "id": "1403563655",
+        "cosine": "0.8585363",
+        "confidence": "likely"
+    },
+    "1314925279": {
+        "id": "1406134341",
+        "cosine": "0.8815334",
+        "confidence": "likely"
+    },
+    "1315549524": {
+        "id": "1334366773",
+        "cosine": "0.8155742",
+        "confidence": "possible"
+    },
+    "1315932474": {
+        "id": "1388312335",
+        "cosine": "0.83012784",
+        "confidence": "possible"
+    },
+    "1300221754": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1304932293": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1304548145": {
+        "id": "1303944815",
+        "cosine": "0.9239196",
+        "confidence": "likely"
+    },
+    "1301319143": {
+        "id": "1305756868",
+        "cosine": "0.8211559",
+        "confidence": "possible"
+    },
+    "1301339918": {
+        "id": "1303944815",
+        "cosine": "0.90133715",
+        "confidence": "likely"
+    },
+    "1309162713": {
+        "id": "1394544485",
+        "cosine": "0.7942002",
+        "confidence": "possible"
+    },
+    "1309088041": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1308118378": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1309849948": {
+        "id": "1369501696",
+        "cosine": "0.807951",
+        "confidence": "possible"
+    },
+    "1319573641": {
+        "id": "1372515621",
+        "cosine": "0.86168677",
+        "confidence": "likely"
+    },
+    "1311623321": {
+        "id": "1323974314",
+        "cosine": "0.9329352",
+        "confidence": "likely"
+    },
+    "1312275803": {
+        "id": "1377596802",
+        "cosine": "0.7847298",
+        "confidence": "possible"
+    },
+    "1318164826": {
+        "id": "1331726339",
+        "cosine": "0.8672514",
+        "confidence": "likely"
+    },
+    "1313275083": {
+        "id": "1351929628",
+        "cosine": "0.8250374",
+        "confidence": "possible"
+    },
+    "1302373005": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1323069683": {
+        "id": "1420322442",
+        "cosine": "0.78572524",
+        "confidence": "possible"
+    },
+    "1323255843": {
+        "id": "1394050132",
+        "cosine": "0.7959008",
+        "confidence": "possible"
+    },
+    "1318464400": {
+        "id": "1365070865",
+        "cosine": "0.8205458",
+        "confidence": "possible"
+    },
+    "1397099272": {
+        "id": "1397278866",
+        "cosine": "0.83053654",
+        "confidence": "possible"
+    },
+    "1398133655": {
+        "id": "1415872779",
+        "cosine": "0.8829877",
+        "confidence": "likely"
+    },
+    "1398261070": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1398261078": {
+        "id": "1398184398",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1397712422": {
+        "id": "1406919629",
+        "cosine": "0.7540381",
+        "confidence": "possible"
+    },
+    "1395487837": {
+        "id": "1395909687",
+        "cosine": "0.88790053",
+        "confidence": "likely"
+    },
+    "1394579463": {
+        "id": "1394251915",
+        "cosine": "0.9165758",
+        "confidence": "likely"
+    },
+    "1400878421": {
+        "id": "1406120193",
+        "cosine": "0.81041676",
+        "confidence": "possible"
+    },
+    "1401099776": {
+        "id": "1401253740",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1401446273": {
+        "id": "1401253740",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1394318420": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1394356039": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1393731899": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1395002709": {
+        "id": "1395632770",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1395033284": {
+        "id": "1394607370",
+        "cosine": "0.8971413",
+        "confidence": "likely"
+    },
+    "1394314251": {
+        "id": "1395909687",
+        "cosine": "0.83681",
+        "confidence": "possible"
+    },
+    "1399580941": {
+        "id": "1406120237",
+        "cosine": "0.8871619",
+        "confidence": "likely"
+    },
+    "1392203718": {
+        "id": "1392108881",
+        "cosine": "0.8292854",
+        "confidence": "possible"
+    },
+    "1392203713": {
+        "id": "1395115834",
+        "cosine": "0.7525606",
+        "confidence": "possible"
+    },
+    "1390995965": {
+        "id": "1403286109",
+        "cosine": "0.7819432",
+        "confidence": "possible"
+    },
+    "1401507456": {
+        "id": "1419685997",
+        "cosine": "0.7602844",
+        "confidence": "possible"
+    },
+    "1409376073": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1408858272": {
+        "id": "1411933143",
+        "cosine": "0.8302802",
+        "confidence": "possible"
+    },
+    "1406354266": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1406664114": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1411200296": {
+        "id": "1412348805",
+        "cosine": "0.7651515",
+        "confidence": "possible"
+    },
+    "1411385485": {
+        "id": "1417446360",
+        "cosine": "0.8014384",
+        "confidence": "possible"
+    },
+    "1410763066": {
+        "id": "1418702074",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1404989284": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1404961846": {
+        "id": "1406296322",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1405619448": {
+        "id": "1415594565",
+        "cosine": "0.85480493",
+        "confidence": "likely"
+    },
+    "1403835913": {
+        "id": "1404284554",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1417693138": {
+        "id": "1417149511",
+        "cosine": "0.8819234",
+        "confidence": "likely"
+    },
+    "1420676904": {
+        "id": "1420475098",
+        "cosine": "0.7608119",
+        "confidence": "possible"
+    },
+    "1420837403": {
+        "id": "1421151615",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1421402749": {
+        "id": "1421151615",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1421411761": {
+        "id": "1421151615",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1421947874": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1422061500": {
+        "id": "1422663312",
+        "cosine": "1.0",
+        "confidence": "certain"
+    },
+    "1423564525": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1423461081": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1330163333": {
+        "id": "1339571884",
+        "cosine": "0.90311635",
+        "confidence": "likely"
+    },
+    "1330315740": {
+        "id": "1396887941",
+        "cosine": "0.8712467",
+        "confidence": "likely"
+    },
+    "1331447275": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1332155066": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1333685206": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1327426457": {
+        "id": "1345364465",
+        "cosine": "0.8569181",
+        "confidence": "likely"
+    },
+    "1332918845": {
+        "id": "1357621700",
+        "cosine": "0.87919664",
+        "confidence": "likely"
+    },
+    "1324628386": {
+        "id": "1376249600",
+        "cosine": "0.85592705",
+        "confidence": "likely"
+    },
+    "1334177820": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1334192589": {
+        "id": "1335867608",
+        "cosine": "0.79017526",
+        "confidence": "possible"
+    },
+    "1340189044": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1341460811": {
+        "id": "1342289338",
+        "cosine": "0.79359156",
+        "confidence": "possible"
+    },
+    "1342143815": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1345103189": {
+        "id": "1394251909",
+        "cosine": "0.8375812",
+        "confidence": "possible"
+    },
+    "1346090413": {
+        "id": "1419262146",
+        "cosine": "0.86633646",
+        "confidence": "likely"
+    },
+    "1337464212": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1337198557": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1340263282": {
+        "id": "1341415213",
+        "cosine": "0.83771783",
+        "confidence": "possible"
+    },
+    "1344780801": {
+        "id": "1419899110",
+        "cosine": "0.7743037",
+        "confidence": "possible"
+    },
+    "1335312998": {
+        "id": "1355330210",
+        "cosine": "0.85106003",
+        "confidence": "likely"
+    },
+    "1334785023": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1347294029": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1347643012": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1347616298": {
+        "id": "1357621700",
+        "cosine": "0.8587239",
+        "confidence": "likely"
+    },
+    "1348248215": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1349528736": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1351868518": {
+        "id": "1403286109",
+        "cosine": "0.8028436",
+        "confidence": "possible"
+    },
+    "1351783438": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1350142436": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1349918448": {
+        "id": "1366895854",
+        "cosine": "0.8810039",
+        "confidence": "likely"
+    },
+    "1353615050": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1353615072": {
+        "id": "1377276494",
+        "cosine": "0.81684005",
+        "confidence": "possible"
+    },
+    "1295642787": {
+        "id": "1336501057",
+        "cosine": "0.7904476",
+        "confidence": "possible"
+    },
+    "1299120255": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1300221685": {
+        "id": "1299265266",
+        "cosine": "0.9008222",
+        "confidence": "likely"
+    },
+    "1300217187": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1300203160": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1300996647": {
+        "id": "1312437396",
+        "cosine": "0.8848404",
+        "confidence": "likely"
+    },
+    "1297985179": {
+        "id": "1397278866",
+        "cosine": "0.8683687",
+        "confidence": "likely"
+    },
+    "1292648221": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1292645625": {
+        "id": "1394251909",
+        "cosine": "0.8070652",
+        "confidence": "possible"
+    },
+    "1303525294": {
+        "id": "1342687032",
+        "cosine": "0.8250105",
+        "confidence": "possible"
+    },
+    "1303840625": {
+        "id": "1312437396",
+        "cosine": "0.91143256",
+        "confidence": "likely"
+    },
+    "1302616326": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1302821522": {
+        "id": "1366895830",
+        "cosine": "0.8725427",
+        "confidence": "likely"
+    },
+    "1303859513": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1307369771": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1307472309": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1316812899": {
+        "id": "1377426052",
+        "cosine": "0.8644321",
+        "confidence": "likely"
+    },
+    "1316813089": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1316812742": {
+        "id": "1338126474",
+        "cosine": "0.7654026",
+        "confidence": "possible"
+    },
+    "1315549513": {
+        "id": "1383589671",
+        "cosine": "0.8735392",
+        "confidence": "likely"
+    },
+    "1315549498": {
+        "id": "1315961554",
+        "cosine": "0.839567",
+        "confidence": "possible"
+    },
+    "1315549515": {
+        "id": "1321458110",
+        "cosine": "0.8541693",
+        "confidence": "likely"
+    },
+    "1317211657": {
+        "id": "1323974314",
+        "cosine": "0.83753806",
+        "confidence": "possible"
+    },
+    "1318992319": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1309827263": {
+        "id": "1316134691",
+        "cosine": "0.8560896",
+        "confidence": "likely"
+    },
+    "1311330568": {
+        "id": "1395116204",
+        "cosine": "0.76135594",
+        "confidence": "possible"
+    },
+    "1313745451": {
+        "id": "1351253196",
+        "cosine": "0.818483",
+        "confidence": "possible"
+    },
+    "1319951416": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1321927094": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1323046945": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1322589907": {
+        "id": "1403503221",
+        "cosine": "0.8998562",
+        "confidence": "likely"
+    },
+    "1322144841": {
+        "id": "1344695239",
+        "cosine": "0.8392329",
+        "confidence": "possible"
+    },
+    "1322147849": {
+        "id": "1397278866",
+        "cosine": "0.8585767",
+        "confidence": "likely"
+    },
+    "1331447274": {
+        "id": "1353894853",
+        "cosine": "0.8386463",
+        "confidence": "possible"
+    },
+    "1331847938": {
+        "id": "1375506551",
+        "cosine": "0.85321975",
+        "confidence": "likely"
+    },
+    "1332470719": {
+        "id": "1368651712",
+        "cosine": "0.85175914",
+        "confidence": "likely"
+    },
+    "1333512724": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1332131076": {
+        "id": "1412924622",
+        "cosine": "0.7582974",
+        "confidence": "possible"
+    },
+    "1324608540": {
+        "id": "1339572014",
+        "cosine": "0.85750103",
+        "confidence": "likely"
+    },
+    "1334219774": {
+        "id": "1336700157",
+        "cosine": "0.8120047",
+        "confidence": "possible"
+    },
+    "1334561042": {
+        "id": "1365446298",
+        "cosine": "0.817075",
+        "confidence": "possible"
+    },
+    "1325809726": {
+        "id": "1374441585",
+        "cosine": "0.8028359",
+        "confidence": "possible"
+    },
+    "1323893270": {
+        "id": "1338872920",
+        "cosine": "0.77517605",
+        "confidence": "possible"
+    },
+    "1334791881": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1340159006": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1344788508": {
+        "id": "1381919488",
+        "cosine": "0.7575795",
+        "confidence": "possible"
+    },
+    "1344964294": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1344613227": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1345308585": {
+        "id": "1353878700",
+        "cosine": "0.77675796",
+        "confidence": "possible"
+    },
+    "1336001998": {
+        "id": "1385435986",
+        "cosine": "0.8553786",
+        "confidence": "likely"
+    },
+    "1336793026": {
+        "id": "1358664274",
+        "cosine": "0.76775914",
+        "confidence": "possible"
+    },
+    "1337419224": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1346159038": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1346279647": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1347780766": {
+        "id": "1397278866",
+        "cosine": "0.843682",
+        "confidence": "possible"
+    },
+    "1347518241": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1347538700": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1338557255": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1352338203": {
+        "id": "1352321621",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1352261973": {
+        "id": "1352081448",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1352876109": {
+        "id": "1382496030",
+        "cosine": "0.8358987",
+        "confidence": "possible"
+    },
+    "1352755763": {
+        "id": "1419311558",
+        "cosine": "0.84164625",
+        "confidence": "possible"
+    },
+    "1331993675": {
+        "id": "1343813380",
+        "cosine": "0.8814467",
+        "confidence": "likely"
+    },
+    "1332370930": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1333378455": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1327444426": {
+        "id": "1405310254",
+        "cosine": "0.7655648",
+        "confidence": "possible"
+    },
+    "1330368656": {
+        "id": "1399548091",
+        "cosine": "0.8505723",
+        "confidence": "likely"
+    },
+    "1330297786": {
+        "id": "1409089237",
+        "cosine": "0.8424512",
+        "confidence": "possible"
+    },
+    "1329699324": {
+        "id": "1394252385",
+        "cosine": "0.8601107",
+        "confidence": "likely"
+    },
+    "1324809011": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1326154956": {
+        "id": "1365446298",
+        "cosine": "0.769159",
+        "confidence": "possible"
+    },
+    "1327105100": {
+        "id": "1338097173",
+        "cosine": "0.88894707",
+        "confidence": "likely"
+    },
+    "1333685147": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1341477478": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1342026284": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1342067507": {
+        "id": "1403582079",
+        "cosine": "0.8458593",
+        "confidence": "possible"
+    },
+    "1335382317": {
+        "id": "1381098801",
+        "cosine": "0.774289",
+        "confidence": "possible"
+    },
+    "1340883900": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1340883899": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1338539092": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1338167822": {
+        "id": "1351540465",
+        "cosine": "0.84489125",
+        "confidence": "possible"
+    },
+    "1336808554": {
+        "id": "1396204000",
+        "cosine": "0.7520711",
+        "confidence": "possible"
+    },
+    "1342143808": {
+        "id": "1382153368",
+        "cosine": "0.79294074",
+        "confidence": "possible"
+    },
+    "1346279677": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1347033037": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1344588993": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1344669759": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1345934296": {
+        "id": "1345801559",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1349918451": {
+        "id": "1399018657",
+        "cosine": "0.8819712",
+        "confidence": "likely"
+    },
+    "1347487132": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1347487133": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1347657893": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1348210816": {
+        "id": "1348723616",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1348528097": {
+        "id": "1381919488",
+        "cosine": "0.82764614",
+        "confidence": "possible"
+    },
+    "1349918449": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1353292376": {
+        "id": "1352321621",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1299748515": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1302614126": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1302682570": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1304932292": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1304932294": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1294992196": {
+        "id": "1296320652",
+        "cosine": "0.9358016",
+        "confidence": "likely"
+    },
+    "1293511475": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1295065439": {
+        "id": "1398115913",
+        "cosine": "0.87626",
+        "confidence": "likely"
+    },
+    "1292443953": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1292088145": {
+        "id": "1383705982",
+        "cosine": "0.83463556",
+        "confidence": "possible"
+    },
+    "1296687805": {
+        "id": "1399164775",
+        "cosine": "0.8166594",
+        "confidence": "possible"
+    },
+    "1297290695": {
+        "id": "1420673245",
+        "cosine": "0.82769763",
+        "confidence": "possible"
+    },
+    "1300221598": {
+        "id": "1322171802",
+        "cosine": "0.8261344",
+        "confidence": "possible"
+    },
+    "1300878475": {
+        "id": "1303662511",
+        "cosine": "0.8816303",
+        "confidence": "likely"
+    },
+    "1300996646": {
+        "id": "1311586460",
+        "cosine": "0.82249504",
+        "confidence": "possible"
+    },
+    "1301442623": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1301416126": {
+        "id": "1400227395",
+        "cosine": "0.83247626",
+        "confidence": "possible"
+    },
+    "1308118283": {
+        "id": "1365446298",
+        "cosine": "0.7612248",
+        "confidence": "possible"
+    },
+    "1310292535": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1309800930": {
+        "id": null,
+        "cosine": null,
+        "confidence": null
+    },
+    "1318026691": {
+        "id": "1336700157",
+        "cosine": "0.75760347",
+        "confidence": "possible"
+    },
+    "1318026641": {
+        "id": "1342908555",
+        "cosine": "0.8615414",
+        "confidence": "likely"
+    },
+    "1312275805": {
+        "id": "1402339349",
+        "cosine": "0.789309",
+        "confidence": "possible"
+    },
+    "1312275786": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1312383499": {
+        "id": "1377763517",
+        "cosine": "0.8144067",
+        "confidence": "possible"
+    },
+    "1312275760": {
+        "id": "1313968216",
+        "cosine": "0.7746341",
+        "confidence": "possible"
+    },
+    "1312275804": {
+        "id": "1347664484",
+        "cosine": "0.75746894",
+        "confidence": "possible"
+    },
+    "1316812745": {
+        "id": "1403256253",
+        "cosine": "0.76940423",
+        "confidence": "possible"
+    },
+    "1311624447": {
+        "id": "1344696281",
+        "cosine": "0.8197373",
+        "confidence": "possible"
+    },
+    "1311623324": {
+        "id": "1406796227",
+        "cosine": "0.7897452",
+        "confidence": "possible"
+    },
+    "1311623332": {
+        "id": "1377596802",
+        "cosine": "0.8634561",
+        "confidence": "likely"
+    },
+    "1315549560": {
+        "id": "1395116204",
+        "cosine": "0.7923018",
+        "confidence": "possible"
+    },
+    "1316734343": {
+        "id": "1334283729",
+        "cosine": "0.9999999",
+        "confidence": "certain"
+    },
+    "1316813085": {
+        "id": "1368105163",
+        "cosine": "0.8094136",
+        "confidence": "possible"
+    },
+    "1316812907": {
+        "id": "1410886628",
+        "cosine": "0.7996708",
+        "confidence": "possible"
+    },
+    "1322072341": {
+        "id": "1365680209",
+        "cosine": "0.8553561",
+        "confidence": "likely"
+    },
+    "1322347043": {
+        "id": "1322269947",
+        "cosine": "0.8298267",
+        "confidence": "possible"
+    }
+}

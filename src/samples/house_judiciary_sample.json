@@ -1,0 +1,123 @@
+{
+    "_index": "doc_2023-04_7166c64f-418b-4424-b53c-b8fb7855a352",
+    "_type": "_doc",
+    "_id": "1416610140",
+    "_version": 1,
+    "_score": null,
+    "_source": {
+      "sentiment": {
+        "subjectivity": 0.75,
+        "polarity": -0.25
+      },
+      "workspace": 7303,
+      "language": "en",
+      "source": "U.S. House of Representatives",
+      "title": "The Biden Border Crisis: Exploitation of Unaccompanied Alien Children",
+      "originalpath": "https://judiciary.house.gov/committee-activity/hearings/biden-border-crisis-exploitation-unaccompanied-alien-children",
+      "wSpacemeta": {
+        "geo_domain": {
+          "countryCode": "US",
+          "stateCode": "DC"
+        },
+        "geo_primary": "38.8870943,-77.0082254",
+        "alexa_rank": 7500,
+        "audience_visits": 6572887,
+        "category": "Law_and_Government/Government",
+        "global_rank": 9465
+      },
+      "ref": "ar-4827",
+      "topimage": "docs/7303/1416610140/thumb.webp",
+      "cvf_entities": [
+        {
+          "civicfeed_id": "Joe_Biden",
+          "sentiment": {
+            "subjectivity": 0.75,
+            "polarity": -0.25
+          },
+          "offset": 5,
+          "cat": "person::Biden::",
+          "wikidata_id": "Joe_Biden",
+          "term": "Biden",
+          "type": "person",
+          "slug": "biden"
+        },
+        {
+          "civicfeed_id": "Joe_Biden",
+          "sentiment": {
+            "subjectivity": 0.8,
+            "polarity": 0.03
+          },
+          "offset": 240,
+          "cat": "person::Biden::",
+          "wikidata_id": "Joe_Biden",
+          "term": "Biden",
+          "type": "person",
+          "slug": "biden"
+        },
+        {
+          "civicfeed_id": "Tara_Lee",
+          "sentiment": {
+            "subjectivity": 0.3,
+            "polarity": 0.11
+          },
+          "offset": 481,
+          "cat": "person::Tara Lee::",
+          "wikidata_id": "Tara_Lee",
+          "term": "Tara Lee",
+          "type": "person",
+          "slug": "tara-lee"
+        }
+      ],
+      "pretext": null,
+      "structured": {},
+      "links": [
+        "https://judiciary.house.gov/committee-activity/hearings",
+        "https://judiciary.house.gov/media/in-the-news",
+        "https://judiciary.house.gov/subcommittees/committee-judiciary/subcommittee-immigration-integrity-security-and-enforcement"
+      ],
+      "id": 1416610140,
+      "text": "The House Judiciary Subcommittee on Immigration Integrity, Security, and Enforcement will hold a hearing on Wednesday, April 26, 2023, at 3 00 p.m. ET. The hearing, The Biden Border Crisis Exploitation of Unaccompanied Alien Children, will examine the unprecedented surge of unaccompanied alien children at the southwest border and how open-border policies enable the exploitation of those children. WITNESSES Tara Lee Rodas, Health and Human Services Whistleblower, Federal Inspector General EmployeeSheena Rodriguez, Founder and President, Alliance for a Safe TexasJessica Vaughn, Director of Policy Studies, Center for Immigration Studies ",
+      "Content-Type": "text/html",
+      "owner": "7166c64f-418b-4424-b53c-b8fb7855a352",
+      "geo_primary": "38.8870943,-77.0082254",
+      "diff_date": 0,
+      "created": 1682197578000,
+      "canonical": "http://judiciary.house.gov/committee-activity/hearings/biden-border-crisis-exploitation-unaccompanied-alien-children",
+      "url": "https://judiciary.house.gov/committee-activity/hearings/biden-border-crisis-exploitation-unaccompanied-alien-children",
+      "tags": [
+        "news",
+        "us-state-us",
+        "news-us",
+        "news-glob",
+        "news-us-dc"
+      ],
+      "processed": 1682255342650,
+      "is_original_title": true,
+      "filename": "The Biden Border Crisis: Exploitation of Unaccompanied Alien Children",
+      "filename_pretty": "The Biden Border Crisis: Exploitation of Unaccompanied Alien Children",
+      "domain": "judiciary.house.gov",
+      "geo_secondary": [
+        "38.8870943,-77.0082254"
+      ],
+      "publish_date": 1682255342
+    },
+    "fields": {
+      "processed": [
+        "2023-04-23T13:09:02.650Z"
+      ],
+      "publish_date": [
+        "1970-01-20T11:17:35.342Z"
+      ],
+      "created": [
+        "2023-04-22T21:06:18.000Z"
+      ]
+    },
+    "highlight": {
+      "domain": [
+        "@opensearch-dashboards-highlighted-field@judiciary.house.gov@/opensearch-dashboards-highlighted-field@"
+      ]
+    },
+    "sort": [
+      1682197578000
+    ]
+  }

@@ -1,0 +1,98 @@
+{
+    "_index": "doc_2023-04_7166c64f-418b-4424-b53c-b8fb7855a352",
+    "_type": "_doc",
+    "_id": "1418097967",
+    "_version": 1,
+    "_score": null,
+    "_source": {
+      "sentiment": {
+        "subjectivity": 0,
+        "polarity": 0
+      },
+      "workspace": 94139,
+      "language": "en",
+      "source": "Patrick Wood",
+      "title": "Corbett: Your Guide To 5th Generation Warfare",
+      "originalpath": "https://www.technocracy.news/corbett-your-guide-to-5th-generation-warfare",
+      "wSpacemeta": {
+        "geo_domain": {
+          "countryCode": "US",
+          "stateCode": "AZ"
+        },
+        "newsguard": {
+          "score": 20,
+          "orientation": "Left",
+          "rating": "N",
+          "topic": "Conspiracy theories or hoaxes,Political news or commentary,Health or medical information,Technology",
+          "type": "Aggregation"
+        },
+        "geo_primary": "33.40337,-111.63881",
+        "alexa_rank": 384744,
+        "audience_visits": 224577,
+        "category": "News_and_Media",
+        "global_rank": 193780
+      },
+      "ref": "aw-45102",
+      "topimage": "docs/94139/1418097967/thumb.webp",
+      "cvf_entities": [
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1,
+          "cat": "person::Corbett::",
+          "wikidata_id": null,
+          "term": "Corbett",
+          "type": "person",
+          "slug": "corbett"
+        }
+      ],
+      "pretext": null,
+      "structured": {},
+      "id": 1418097967,
+      "text": null,
+      "Content-Type": "text/html",
+      "owner": "7166c64f-418b-4424-b53c-b8fb7855a352",
+      "geo_primary": "33.40337,-111.63881",
+      "diff_date": 4,
+      "is_original": true,
+      "created": 1682360637362,
+      "url": "https://www.technocracy.news/corbett-your-guide-to-5th-generation-warfare",
+      "tags": [
+        "news",
+        "news-glob",
+        "news-us",
+        "news-us-az"
+      ],
+      "processed": 1682360637590,
+      "is_original_title": true,
+      "filename": "Corbett: Your Guide To 5th Generation Warfare",
+      "filename_pretty": "Corbett: Your Guide To 5th Generation Warfare",
+      "domain": "technocracy.news",
+      "geo_secondary": [
+        "33.40337,-111.63881"
+      ],
+      "publish_date": 1682007868
+    },
+    "fields": {
+      "processed": [
+        "2023-04-24T18:23:57.590Z"
+      ],
+      "publish_date": [
+        "1970-01-20T11:13:27.868Z"
+      ],
+      "created": [
+        "2023-04-24T18:23:57.362Z"
+      ]
+    },
+    "highlight": {
+      "domain": [
+        "@opensearch-dashboards-highlighted-field@technocracy.news@/opensearch-dashboards-highlighted-field@"
+      ]
+    },
+    "sort": [
+      1682360637362
+    ]
+  }

@@ -1,0 +1,7017 @@
+{
+    "1393802532": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1396035721": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1396469849": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1396445426": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398261084": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398148582": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1397159147": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1412411294": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1403726195": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1411315705": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1412769478": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1413339065": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1402319988": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1418603316": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1419526418": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1418163855": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421402706": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421164761": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1422665670": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1394395690": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1401099748": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1402346262": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398855818": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398261117": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1406020601": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1410046888": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1406078843": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1411250836": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1413191796": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1404056608": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1404140165": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1419720298": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1402286656": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1420086921": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421083948": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1420851117": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421402571": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1420159171": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1396844010": {
+        "id": "1406120222",
+        "cosine": "0.68729454",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1394314252": {
+        "id": "1394607370",
+        "cosine": "0.76576316",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1395102909": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398261049": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1392203684": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1391078681": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1406721540": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1407062816": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1409362462": {
+        "id": "1409592105",
+        "cosine": "0.6666156",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1409795557": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1409795335": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1405201062": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1411937186": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1402314534": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1402569951": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1403835647": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1404396927": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1414750469": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1420806603": {
+        "id": "1421845160",
+        "cosine": "0.6363118",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1421402921": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1420095545": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1303859911": {
+        "id": "1415872779",
+        "cosine": "0.6523573",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1292611517": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1292237110": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1308373888": {
+        "id": "1311177518",
+        "cosine": "0.69916934",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1310313088": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1311036922": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1298158838": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1318026646": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1318939645": {
+        "id": "1338037901",
+        "cosine": "0.7001417",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1297057051": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1302711982": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1293824214": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1300996650": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1315266682": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1317214760": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323026317": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323255835": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1364124094": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361439182": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363034152": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363176437": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361340693": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361968876": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1357133456": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1357157141": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1356892523": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1360701512": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1360477264": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355296458": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355497715": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354735459": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354367915": {
+        "id": "1397355252",
+        "cosine": "0.66525847",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1367775248": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1375903757": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1372658949": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368819877": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368819881": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379309197": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1378492687": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1380493741": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1380952086": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379539862": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1381618736": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1384450241": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1387504896": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389633633": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1353328396": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363617161": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363134689": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361141242": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1360865952": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1365251868": {
+        "id": "1369847445",
+        "cosine": "0.63103545",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.summary"
+    },
+    "1367065421": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355510919": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355462748": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354735469": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1353826781": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1366908348": {
+        "id": "1367993887",
+        "cosine": "0.63968486",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1380165332": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1375817000": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1375826280": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1370945176": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1378730240": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1377283110": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1377603436": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1373371385": {
+        "id": "1399104394",
+        "cosine": "0.665824",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1369707640": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1369335491": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368819878": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385024490": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385497673": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385475822": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385777978": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1387469542": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389340792": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1390619521": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1356409332": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1357173510": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1358157451": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1362370076": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1356052946": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1362883309": {
+        "id": "1402395933",
+        "cosine": "0.6253129",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1364156619": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1364327027": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1360443299": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1370289825": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1369668196": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368802917": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1371002004": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1376235427": {
+        "id": "1394607370",
+        "cosine": "0.80797046",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1367064914": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1378266235": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1376414282": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1369617311": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1370128416": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1366715846": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379691487": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1381722955": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379746696": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1382108358": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1384654972": {
+        "id": "1388189956",
+        "cosine": "0.75690466",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1384385383": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385039644": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385124382": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1386929194": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1387236195": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1388641133": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1390920794": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1396318373": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1396368297": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1395675565": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1396862586": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1393694163": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1402075808": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1405613499": {
+        "id": "1406120237",
+        "cosine": "0.792066",
+        "confidence": "likely",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1410047538": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1409323075": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1412074658": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1412750430": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1411478215": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1411855190": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1404139696": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1403835654": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1406565293": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1402937635": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1402983939": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1414779039": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1413911777": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1416682286": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1419741305": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421402572": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421917738": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1420823224": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1423421871": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1396005389": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1396987912": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1399180978": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1394716460": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1393817207": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1395028474": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1395487838": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398917934": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398261115": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398261287": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1392204022": {
+        "id": "1393936682",
+        "cosine": "0.6081315",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1406081416": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1406058965": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1406038767": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1405047151": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1405442564": {
+        "id": "1411895144",
+        "cosine": "0.61676836",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1411337681": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1409698535": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1417417199": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1419013635": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1416682288": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1419477358": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1419834852": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1414383597": {
+        "id": "1415872779",
+        "cosine": "0.65630597",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1414119581": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421693651": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1423061527": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1359765370": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361968894": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1362329763": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1362370007": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363121405": {
+        "id": "1411427394",
+        "cosine": "0.66242105",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.summary"
+    },
+    "1361647087": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361647089": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354735596": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1376132104": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1376568877": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1371608886": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1371397346": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1378513476": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1378932476": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1378861213": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379221930": {
+        "id": "1406120222",
+        "cosine": "0.7395137",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1378499148": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1375735072": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1367065174": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1367750609": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368294699": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1378269351": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368820830": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368821501": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1369440032": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379647507": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1380951897": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1384353308": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1386707929": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1387186326": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1387518494": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1388536623": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398887755": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1397921694": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1394382769": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1393884567": {
+        "id": "1393936682",
+        "cosine": "0.66511387",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1399416061": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1396424170": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1397470685": {
+        "id": "1396749118",
+        "cosine": "0.6143241",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1397191577": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1393205429": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1401445177": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1406302314": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1411201609": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1411039703": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1409795304": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1403432166": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1403464973": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1403716208": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1404472447": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1412612715": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1412254626": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1412836420": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1402914837": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1420044740": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1420709221": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421164762": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1422483351": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1422593732": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1423354720": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1397099001": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1397451365": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1395623367": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1394537741": {
+        "id": "1398115755",
+        "cosine": "0.7664689",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1394671707": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1394685017": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1393600448": {
+        "id": "1394607370",
+        "cosine": "0.68864244",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1393895869": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1401919355": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1402966698": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1409795332": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1410706038": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1409616352": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1411349951": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1403835718": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1414647175": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1414776016": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1413898266": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1415464527": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1415386903": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1416682293": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1418328605": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1418343632": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1419475079": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1422412515": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1422045679": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1420870877": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421917739": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361130303": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361117946": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363382737": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361724623": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1357384460": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1356508798": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354368419": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355956663": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361647088": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354735456": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368270508": {
+        "id": "1372475580",
+        "cosine": "0.6795853",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1377217335": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1372634668": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1371397390": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1369383693": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1371060517": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1370114544": {
+        "id": "1382195984",
+        "cosine": "0.73740554",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1367348097": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1378658990": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1378793758": {
+        "id": "1394607370",
+        "cosine": "0.7739204",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1379164191": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379249218": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1378566737": {
+        "id": "1382165472",
+        "cosine": "0.6111694",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1377688692": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1380835712": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1384633468": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1384969050": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385600375": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1384676543": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1387631776": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1388814716": {
+        "id": "1399104394",
+        "cosine": "0.63323426",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1390557829": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389799452": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1394620683": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1396198737": {
+        "id": "1406120222",
+        "cosine": "0.7438014",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1395653594": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1397402421": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1393407886": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1394096594": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1393934560": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1394083415": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398261116": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398261101": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1406477426": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1403835717": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1403835843": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1409330535": {
+        "id": "1416471312",
+        "cosine": "0.79669833",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1411380647": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1405461202": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1405425621": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1403010950": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1408887851": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1413774099": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1414855292": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1414794155": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1414359996": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1418350548": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1419067116": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421164753": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421402705": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421972048": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1422583613": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1339341852": {
+        "id": "1341415213",
+        "cosine": "0.7884278",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1342143824": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1342026345": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1339358328": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1338609481": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1336806565": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1337464134": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1329953713": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1332036670": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1333218768": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1337128855": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1330315566": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1330315541": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1332470722": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1333197045": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1326261536": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1348757259": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1349918453": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352322748": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352763860": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1331993681": {
+        "id": "1333087124",
+        "cosine": "0.65171236",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1334785024": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1325143507": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1325955922": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1324604550": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1326862438": {
+        "id": "1362709086",
+        "cosine": "0.61776084",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1331993671": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340883938": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340883912": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1337464135": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1344770081": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1345885848": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1345619037": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1341683244": {
+        "id": "1422690131",
+        "cosine": "0.63397443",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.summary"
+    },
+    "1336908395": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1347648918": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1347279837": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1348757250": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1348757253": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1348757292": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1353302009": {
+        "id": "1357791884",
+        "cosine": "0.6896666",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1373188294": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1377864827": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1375831983": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1370114531": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1370996743": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368819880": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368819876": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1373575547": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363820502": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363851668": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1360865835": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1360865971": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361187888": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361117945": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1356797976": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363556673": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1367064920": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1367868678": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354358188": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355576512": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1360477288": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1360477317": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354735454": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354718769": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385777979": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1386173102": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1386052393": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389791004": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389341046": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389340831": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389340823": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389772027": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1390249698": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1390729886": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1392203712": {
+        "id": "1392781988",
+        "cosine": "0.6551364",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.summary"
+    },
+    "1393100534": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1393549179": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1393177608": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1395774236": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1397531343": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1397535556": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1401099743": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1401216983": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1401244133": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1401851838": {
+        "id": "1404902798",
+        "cosine": "0.8491824",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1398185359": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398261362": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1391479207": {
+        "id": "1394607370",
+        "cosine": "0.7407834",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1407062959": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1407063464": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1409640927": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1409696204": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1412819207": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1403120720": {
+        "id": "1406120237",
+        "cosine": "0.75235575",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1403427108": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1403445244": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1404909481": {
+        "id": "1406920046",
+        "cosine": "0.6873029",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1413707142": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1417484165": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1412556413": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1418093433": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1417753151": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421402568": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1423056180": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1360345822": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1357384455": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363188387": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363267612": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361521115": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361725045": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1359828383": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1359848634": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361968463": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1360477306": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1365399591": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1367046231": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355296457": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355849365": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355500496": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354735473": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1353328398": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1372867433": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1371565289": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1371608878": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1371119152": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1370021704": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1370105247": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1370951438": {
+        "id": "1408964802",
+        "cosine": "0.6029235",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1378961840": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368819875": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368819882": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368616046": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1380695119": {
+        "id": "1394011282",
+        "cosine": "0.6461884",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1380453505": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379746808": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379747195": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1381264035": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385051637": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385778325": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385778343": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1330315630": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1329987328": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1331447278": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1332980221": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1332296839": {
+        "id": "1402395933",
+        "cosine": "0.670383",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1331804616": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1333685207": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1332470727": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340883908": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340883935": {
+        "id": "1399501897",
+        "cosine": "0.6915156",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1340883902": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1339588895": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1344752514": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1345917423": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1346279732": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1347748756": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1348503953": {
+        "id": "1419867214",
+        "cosine": "0.6249465",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1350084116": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1351993574": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352027870": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352369709": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352742278": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352762592": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1330315563": {
+        "id": "1422690131",
+        "cosine": "0.61279124",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.summary"
+    },
+    "1331447268": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1331445690": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1331869370": {
+        "id": "1331813371",
+        "cosine": "0.7089153",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1332470721": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1334785022": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1328073053": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1335430029": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1331993679": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1325957373": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1342143809": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1344570970": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1345113245": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1345613413": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1338609476": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1339254461": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340883924": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1341511261": {
+        "id": "1417866220",
+        "cosine": "0.6134393",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1348311911": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1337419573": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1338171133": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1337464139": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1351939633": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352106711": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1331288277": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1334734214": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1333670955": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1326907836": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1327134213": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1330315644": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1329716034": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1324592237": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1324664290": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1339335240": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1339073309": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1346264366": {
+        "id": "1409064269",
+        "cosine": "0.7749957",
+        "confidence": "likely",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1337956250": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1338189810": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1338194061": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1338063731": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1347085227": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1337424765": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1337352649": {
+        "id": "1407565979",
+        "cosine": "0.78452957",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1349489286": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1349498327": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1351807815": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1293824536": {
+        "id": "1299001333",
+        "cosine": "0.81212956",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1303853081": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1304927388": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1304752044": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1307786146": {
+        "id": "1309566582",
+        "cosine": "0.7291792",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1307753818": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1307939962": {
+        "id": "1311946125",
+        "cosine": "0.6499941",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1293729586": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1293704664": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316749547": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1317731315": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1317984704": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316938825": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316938824": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316749525": {
+        "id": "1349801862",
+        "cosine": "0.79867345",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1315262851": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1311623325": {
+        "id": "1323726682",
+        "cosine": "0.6513502",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1309162685": {
+        "id": "1308293722",
+        "cosine": "0.8775631",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1312042006": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1319951417": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1319573683": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1322347133": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323255871": {
+        "id": "1394011282",
+        "cosine": "0.66467124",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1360189903": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361438209": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1359936919": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1362114495": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361647090": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363337060": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363337059": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363720258": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1364156623": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1356427759": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1356464530": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355956678": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355840589": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355868351": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355614328": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1353328344": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1376533031": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1375802212": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1375843319": {
+        "id": "1404955076",
+        "cosine": "0.6417353",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1371037666": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1378499859": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1378531038": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379518419": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379622200": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379020246": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379747604": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368543250": {
+        "id": "1374951583",
+        "cosine": "0.751617",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1367275716": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1384452271": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1387504897": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1387680178": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1387598478": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1386059852": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1388620029": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1388943470": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389036449": {
+        "id": "1409064269",
+        "cosine": "0.6769942",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1389585756": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1390627918": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1296845769": {
+        "id": "1300651037",
+        "cosine": "0.6510075",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1298441069": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1299788514": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1295564616": {
+        "id": "1305756868",
+        "cosine": "0.62889504",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1300900226": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1318026651": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316749524": {
+        "id": "1406120237",
+        "cosine": "0.7896026",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1316812901": {
+        "id": "1323726682",
+        "cosine": "0.7588463",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1316812743": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1317605018": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1315986831": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1307651595": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1308086788": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1308015481": {
+        "id": "1314540013",
+        "cosine": "0.6958951",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1315549540": {
+        "id": "1340738716",
+        "cosine": "0.775484",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1312383562": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1313274997": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1311401396": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1311595335": {
+        "id": "1311236146",
+        "cosine": "0.7721274",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1319513354": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1320574504": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1322347104": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1322347132": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1322347103": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1321906786": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323758117": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1356498834": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361246017": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361968864": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1360419543": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1360477287": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1361117976": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1366801356": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1366920341": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355474889": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354611874": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354735466": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354735464": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1353328328": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1367924616": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1372298047": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1372618674": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1362746783": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363337062": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363000867": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1375820297": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368709826": {
+        "id": "1373399905",
+        "cosine": "0.73977983",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1367647109": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1378436853": {
+        "id": "1394607370",
+        "cosine": "0.8636195",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1384348615": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1384928566": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1384720631": {
+        "id": "1396749118",
+        "cosine": "0.63568455",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1385551337": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385559430": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1386266275": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1386889841": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1388919330": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389064447": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1387642733": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389154092": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1390318518": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1372248802": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1390665426": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1359887456": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1360699012": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1356892524": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1357283965": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363608214": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1355912328": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1356508675": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1363617137": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354411189": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354735460": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1354699427": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1370011546": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1369374849": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1369643978": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1372345876": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1372511296": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1373038865": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1376558309": {
+        "id": "1406120222",
+        "cosine": "0.85950774",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1368668870": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1368445099": {
+        "id": "1372475580",
+        "cosine": "0.68091565",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1368819879": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379555179": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379746759": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1380108071": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1380628119": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1380951870": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1379923660": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1380214686": {
+        "id": "1402638172",
+        "cosine": "0.61182076",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.summary"
+    },
+    "1382849377": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385778344": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1384428742": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1384633487": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1385061028": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1388573164": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389037867": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389340852": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389341045": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389340945": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1389845072": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1296142930": {
+        "id": "1307652667",
+        "cosine": "0.71580184",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1300996649": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316812737": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1292464101": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1293724986": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1296693340": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316474613": {
+        "id": "1318361235",
+        "cosine": "0.6726858",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1316812746": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316624279": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1319235147": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1315549512": {
+        "id": "1324860315",
+        "cosine": "0.74279624",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1303774432": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1309066748": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1310313061": {
+        "id": "1311236146",
+        "cosine": "0.71032274",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1303289632": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1311283583": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1311466996": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1312275767": {
+        "id": "1381167378",
+        "cosine": "0.6068106",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1312275766": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1313204575": {
+        "id": "1323974314",
+        "cosine": "0.8220161",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1302660992": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1304456030": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1304932134": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1319573642": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1319573702": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1322347122": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1318431093": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1295642773": {
+        "id": "1295899479",
+        "cosine": "0.8704369",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1300221684": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1303859497": {
+        "id": "1305605359",
+        "cosine": "0.86415136",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1302009579": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1308585493": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1308653242": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1311623327": {
+        "id": "1310590867",
+        "cosine": "0.8012496",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1309162707": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1310313125": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1310313076": {
+        "id": "1348723627",
+        "cosine": "0.6324539",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.summary"
+    },
+    "1310313070": {
+        "id": "1324860315",
+        "cosine": "0.73644066",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1293824210": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1318956549": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1319573628": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1315549521": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1302061462": {
+        "id": "1305605359",
+        "cosine": "0.6424727",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1304694539": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1297237440": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1295642778": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1295642751": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1304719382": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1317235853": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1319573682": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1322347106": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1322915263": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1321885230": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323758116": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1300996645": {
+        "id": "1409064269",
+        "cosine": "0.7018284",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1300850970": {
+        "id": "1367993887",
+        "cosine": "0.63701296",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1297237139": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1299999399": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1294852985": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1309071023": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1293824234": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1293707147": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1310234975": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1312275913": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1309556939": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1317845670": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1319573623": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316812912": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316938686": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1292527064": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1292199854": {
+        "id": "1298112906",
+        "cosine": "0.61537623",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1304460966": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1304927203": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1303566138": {
+        "id": "1311586469",
+        "cosine": "0.6743344",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1307505533": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1307487957": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1311370780": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1311329335": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323255837": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323153369": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323639662": {
+        "id": "1419867214",
+        "cosine": "0.6875438",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1315549514": {
+        "id": "1331726339",
+        "cosine": "0.62908345",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1304753751": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1303757437": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1300000237": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1300006451": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1300013637": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1300529733": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1302682768": {
+        "id": "1330402990",
+        "cosine": "0.6260107",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1302682569": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1295483826": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1294972240": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1294349782": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1296142933": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1308590066": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1307673022": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1308851447": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1318464344": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1318414863": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316812900": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316812693": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1317751445": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1319242901": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1322243328": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1322347105": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323675810": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323761085": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323623625": {
+        "id": "1323726682",
+        "cosine": "0.8406865",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1330310467": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1329726329": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1326261518": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1333710868": {
+        "id": "1334283729",
+        "cosine": "0.7605132",
+        "confidence": "likely",
+        "field1": "_source.pretext",
+        "field2": "_source.summary"
+    },
+    "1325809727": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1325971973": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1327444540": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1327491701": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1327115546": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1346443606": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1346008221": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1346279636": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1346279664": {
+        "id": "1352146064",
+        "cosine": "0.7963895",
+        "confidence": "likely",
+        "field1": "_source.pretext",
+        "field2": "_source.summary"
+    },
+    "1345205562": {
+        "id": "1415594565",
+        "cosine": "0.7263661",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1344840320": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1339027742": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1339672167": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340284700": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1344710086": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1345101149": {
+        "id": "1403503221",
+        "cosine": "0.68012536",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1338459288": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1338602613": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340860620": {
+        "id": "1399104394",
+        "cosine": "0.61156833",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1340883930": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340641136": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1337477216": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1348692023": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1349487517": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352789494": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352880266": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340873138": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1341724911": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1341735489": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1342143811": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1342143817": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1342143812": {
+        "id": "1362736641",
+        "cosine": "0.6004178",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1347237222": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1338609473": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1337944397": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1329944489": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1331195988": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1330315564": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1331937842": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1332181354": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1334479586": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1334484614": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1335180115": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1332470748": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1332577365": {
+        "id": "1402395933",
+        "cosine": "0.63012904",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1327137061": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1326260306": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1326877446": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1324589541": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1324852137": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1334775553": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1331959034": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1348757256": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1349740547": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352803869": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352338204": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1295642780": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1296708531": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1296057583": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1297237163": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1296845749": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1317606250": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1318026642": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316749515": {
+        "id": "1323726682",
+        "cosine": "0.7272195",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1314925279": {
+        "id": "1324860315",
+        "cosine": "0.7951103",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1315549524": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1315932474": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1300221754": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1304932293": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1304548145": {
+        "id": "1303944815",
+        "cosine": "0.72758543",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1301319143": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1301339918": {
+        "id": "1303944815",
+        "cosine": "0.6472579",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1309162713": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1309088041": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1308118378": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1309849948": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1319573641": {
+        "id": "1406120222",
+        "cosine": "0.61603665",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1311623321": {
+        "id": "1323974314",
+        "cosine": "0.7937521",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1312275803": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1318164826": {
+        "id": "1357644046",
+        "cosine": "0.6306949",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1313275083": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1302373005": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323069683": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323255843": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1318464400": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1397099272": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398133655": {
+        "id": "1406120222",
+        "cosine": "0.7033155",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1398261070": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1398261078": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1397712422": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1395487837": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1394579463": {
+        "id": "1394607370",
+        "cosine": "0.6022258",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1400878421": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1401099776": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1401446273": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1394318420": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1394356039": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1393731899": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1395002709": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1395033284": {
+        "id": "1394607370",
+        "cosine": "0.7978625",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1394314251": {
+        "id": "1395909687",
+        "cosine": "0.6262867",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1399580941": {
+        "id": "1406120237",
+        "cosine": "0.81180906",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1392203718": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1392203713": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1390995965": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1401507456": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1409376073": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1408858272": {
+        "id": "1411706762",
+        "cosine": "0.6719343",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1406354266": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1406664114": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1411200296": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1411385485": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1410763066": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1404989284": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1404961846": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1405619448": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1403835913": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1417693138": {
+        "id": "1417940441",
+        "cosine": "0.6459064",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1420676904": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1420837403": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421402749": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421411761": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1421947874": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1422061500": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1423564525": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1423461081": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1330163333": {
+        "id": "1358470576",
+        "cosine": "0.63589764",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1330315740": {
+        "id": "1355606246",
+        "cosine": "0.6691993",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1331447275": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1332155066": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1333685206": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1327426457": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1332918845": {
+        "id": "1377763507",
+        "cosine": "0.7212012",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1324628386": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1334177820": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1334192589": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340189044": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1341460811": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1342143815": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1345103189": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1346090413": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1337464212": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1337198557": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340263282": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1344780801": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1335312998": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1334785023": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1347294029": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1347643012": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1347616298": {
+        "id": "1375531527",
+        "cosine": "0.6771821",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1348248215": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1349528736": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1351868518": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1351783438": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1350142436": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1349918448": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1353615050": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1353615072": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1295642787": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1299120255": {
+        "id": "1301638779",
+        "cosine": "0.62220955",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1300221685": {
+        "id": "1299265266",
+        "cosine": "0.7142115",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1300217187": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1300203160": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1300996647": {
+        "id": "1305985669",
+        "cosine": "0.8695879",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1297985179": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1292648221": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1292645625": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1303525294": {
+        "id": "1415457195",
+        "cosine": "0.7708211",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1303840625": {
+        "id": "1312437396",
+        "cosine": "0.7974022",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1302616326": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1302821522": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1303859513": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1307369771": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1307472309": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316812899": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316813089": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316812742": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1315549513": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1315549498": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1315549515": {
+        "id": "1317931601",
+        "cosine": "0.6391984",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1317211657": {
+        "id": "1323974314",
+        "cosine": "0.68642193",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1318992319": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1309827263": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1311330568": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1313745451": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1319951416": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1321927094": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323046945": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1322589907": {
+        "id": "1409064269",
+        "cosine": "0.65845954",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1322144841": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1322147849": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1331447274": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1331847938": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1332470719": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1333512724": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1332131076": {
+        "id": "1381167378",
+        "cosine": "0.6776842",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1324608540": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1334219774": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1334561042": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1325809726": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1323893270": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1334791881": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340159006": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1344788508": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1344964294": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1344613227": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1345308585": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1336001998": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1336793026": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1337419224": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1346159038": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1346279647": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1347780766": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1347518241": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1347538700": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1338557255": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352338203": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352261973": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352876109": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1352755763": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1331993675": {
+        "id": "1419867214",
+        "cosine": "0.65711164",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1332370930": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1333378455": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1327444426": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1330368656": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1330297786": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1329699324": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1324809011": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1326154956": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1327105100": {
+        "id": "1368335722",
+        "cosine": "0.6944143",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1333685147": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1341477478": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1342026284": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1342067507": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1335382317": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340883900": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1340883899": {
+        "id": "1341415213",
+        "cosine": "0.6542602",
+        "confidence": "possible",
+        "field1": "_source.pretext",
+        "field2": "_source.text"
+    },
+    "1338539092": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1338167822": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1336808554": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1342143808": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1346279677": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1347033037": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1344588993": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1344669759": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1345934296": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1349918451": {
+        "id": "1384792002",
+        "cosine": "0.6328446",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1347487132": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1347487133": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1347657893": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1348210816": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1348528097": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1349918449": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1353292376": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1299748515": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1302614126": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1302682570": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1304932292": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1304932294": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1294992196": {
+        "id": "1296018324",
+        "cosine": "0.6936976",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1293511475": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1295065439": {
+        "id": "1380788803",
+        "cosine": "0.7004956",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1292443953": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1292088145": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1296687805": {
+        "id": "1348048480",
+        "cosine": "0.6901535",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1297290695": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1300221598": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1300878475": {
+        "id": "1305985669",
+        "cosine": "0.8112052",
+        "confidence": "likely",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1300996646": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1301442623": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1301416126": {
+        "id": "1303873369",
+        "cosine": "0.72440237",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1308118283": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1310292535": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1309800930": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1318026691": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1318026641": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1312275805": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1312275786": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1312383499": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1312275760": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1312275804": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316812745": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1311624447": {
+        "id": "1311236146",
+        "cosine": "0.7000147",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1311623324": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1311623332": {
+        "id": "1409064269",
+        "cosine": "0.6621482",
+        "confidence": "possible",
+        "field1": "_source.text",
+        "field2": "_source.text"
+    },
+    "1315549560": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316734343": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316813085": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1316812907": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1322072341": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    },
+    "1322347043": {
+        "id": null,
+        "cosine": null,
+        "confidence": null,
+        "field": null
+    }
+}

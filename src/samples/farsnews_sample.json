@@ -1,0 +1,589 @@
+{
+    "_index": "doc_2023-04_7166c64f-418b-4424-b53c-b8fb7855a352",
+    "_type": "_doc",
+    "_id": "1422163700",
+    "_version": 1,
+    "_score": null,
+    "_source": {
+      "sentiment": {
+        "subjectivity": 0,
+        "polarity": 0
+      },
+      "workspace": 119898,
+      "language": "fa",
+      "source": "farsnews.ir",
+      "title": "بازسازی سالن تئاتر آکادمیک قرقیزستان با 5 میلیون دلار توسط ازبکستان",
+      "originalpath": "https://farsnews.ir/news/14020206000493/%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B3%D8%A7%D9%84%D9%86-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D8%A2%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%DA%A9-%D9%82%D8%B1%D9%82%DB%8C%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7-5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AA%D9%88%D8%B3%D8%B7-%D8%A7%D8%B2%D8%A8%DA%A9%D8%B3%D8%AA%D8%A7%D9%86",
+      "wSpacemeta": {
+        "audience_visits": 4630987,
+        "category": "News_and_Media",
+        "global_rank": 12293
+      },
+      "ref": "aw-71993",
+      "topimage": "docs/119898/1422163700/thumb.webp",
+      "cvf_entities": [
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 30,
+          "cat": "person::تئاتر آکادمیک::",
+          "wikidata_id": null,
+          "term": "تئاتر آکادمیک",
+          "type": "person",
+          "slug": "tytr-akhdmykh"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 71,
+          "cat": "person::توسط ازبکستان::",
+          "wikidata_id": null,
+          "term": "توسط ازبکستان",
+          "type": "person",
+          "slug": "twst-zbkhstn"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 88,
+          "cat": "person::گزارش خبرنگار::",
+          "wikidata_id": null,
+          "term": "گزارش خبرنگار",
+          "type": "person",
+          "slug": "gzrsh-khbrngr"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 146,
+          "cat": "person::ازبکستان سالن::",
+          "wikidata_id": null,
+          "term": "ازبکستان سالن",
+          "type": "person",
+          "slug": "zbkhstn-sln"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 206,
+          "cat": "person::» بازسازی::",
+          "wikidata_id": null,
+          "term": "» بازسازی",
+          "type": "person",
+          "slug": "bzszy"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 232,
+          "cat": "person::افتتاحیه این تئاتر::",
+          "wikidata_id": null,
+          "term": "افتتاحیه این تئاتر",
+          "type": "person",
+          "slug": "ftthyh-yn-tytr"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 267,
+          "cat": "person::معاون کابینه وزیران::",
+          "wikidata_id": null,
+          "term": "معاون کابینه وزیران",
+          "type": "person",
+          "slug": "m-wn-khbynh-wzyrn"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 289,
+          "cat": "person::نمایندگان مقامات محلی::",
+          "wikidata_id": null,
+          "term": "نمایندگان مقامات محلی",
+          "type": "person",
+          "slug": "nmyndgn-mqmt-mhly"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 341,
+          "cat": "person::آزادبیک نظربکوف»::",
+          "wikidata_id": null,
+          "term": "آزادبیک نظربکوف»",
+          "type": "person",
+          "slug": "azdbykh-nzrbkhwf"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 358,
+          "cat": "person::وزیر فرهنگ ازبکستان::",
+          "wikidata_id": null,
+          "term": "وزیر فرهنگ ازبکستان",
+          "type": "person",
+          "slug": "wzyr-frhng-zbkhstn"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 393,
+          "cat": "person::دبیرکل سازمان بین المللی::",
+          "wikidata_id": null,
+          "term": "دبیرکل سازمان بین المللی",
+          "type": "person",
+          "slug": "dbyrkhl-szmn-byn-lmlly"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 453,
+          "cat": "person::کرد تصمیم برای::",
+          "wikidata_id": null,
+          "term": "کرد تصمیم برای",
+          "type": "person",
+          "slug": "khrd-tsmym-bry"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 468,
+          "cat": "person::بازسازی این تئاتر::",
+          "wikidata_id": null,
+          "term": "بازسازی این تئاتر",
+          "type": "person",
+          "slug": "bzszy-yn-tytr"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 509,
+          "cat": "person::» رئیس جمهور قرقیزستان::",
+          "wikidata_id": null,
+          "term": "» رئیس جمهور قرقیزستان",
+          "type": "person",
+          "slug": "ryys-jmhwr-qrqyzstn"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 535,
+          "cat": "person::ازبکستان::",
+          "wikidata_id": null,
+          "term": "ازبکستان",
+          "type": "person",
+          "slug": "zbkhstn"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 551,
+          "cat": "date::2021::",
+          "wikidata_id": null,
+          "term": "2021",
+          "type": "date",
+          "slug": "2021"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 556,
+          "cat": "person::اتخاذ::",
+          "wikidata_id": null,
+          "term": "اتخاذ",
+          "type": "person",
+          "slug": "tkhdh"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 566,
+          "cat": "person::اقوام باستانی::",
+          "wikidata_id": null,
+          "term": "اقوام باستانی",
+          "type": "person",
+          "slug": "qwm-bstny"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 682,
+          "cat": "person::خیزش ملی::",
+          "wikidata_id": null,
+          "term": "خیزش ملی",
+          "type": "person",
+          "slug": "khyzsh-mly"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 706,
+          "cat": "person::متقابل اجتماعی-اقتصادی::",
+          "wikidata_id": null,
+          "term": "متقابل اجتماعی-اقتصادی",
+          "type": "person",
+          "slug": "mtqbl-jtm-y-qtsdy"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 739,
+          "cat": "person::بشردوستانه::",
+          "wikidata_id": null,
+          "term": "بشردوستانه",
+          "type": "person",
+          "slug": "bshrdwstnh"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 851,
+          "cat": "person::زبان::",
+          "wikidata_id": null,
+          "term": "زبان",
+          "type": "person",
+          "slug": "zbn"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 858,
+          "cat": "person::هویت مشترک::",
+          "wikidata_id": null,
+          "term": "هویت مشترک",
+          "type": "person",
+          "slug": "hwyt-mshtrkh"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 987,
+          "cat": "person::ازبکستان::",
+          "wikidata_id": null,
+          "term": "ازبکستان",
+          "type": "person",
+          "slug": "zbkhstn"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1022,
+          "cat": "person::این پروژه اختصاص داد::",
+          "wikidata_id": null,
+          "term": "این پروژه اختصاص داد",
+          "type": "person",
+          "slug": "yn-prwjh-khtss-dd"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1067,
+          "cat": "person::اولین تئاترهای آسیای::",
+          "wikidata_id": null,
+          "term": "اولین تئاترهای آسیای",
+          "type": "person",
+          "slug": "wlyn-tytrhy-asyy"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1099,
+          "cat": "person::این تئاتر::",
+          "wikidata_id": null,
+          "term": "این تئاتر",
+          "type": "person",
+          "slug": "yn-tytr"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1133,
+          "cat": "date::1918::",
+          "wikidata_id": null,
+          "term": "1918",
+          "type": "date",
+          "slug": "1918"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1144,
+          "cat": "person::رحمان برد::",
+          "wikidata_id": null,
+          "term": "رحمان برد",
+          "type": "person",
+          "slug": "rhmn-brd"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1164,
+          "cat": "person::بنیانگذار::",
+          "wikidata_id": null,
+          "term": "بنیانگذار",
+          "type": "person",
+          "slug": "bnyngdhr"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1176,
+          "cat": "person::سازمان دهنده::",
+          "wikidata_id": null,
+          "term": "سازمان دهنده",
+          "type": "person",
+          "slug": "szmn-dhndh"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1203,
+          "cat": "person::قرقیزستان افتتاح::",
+          "wikidata_id": null,
+          "term": "قرقیزستان افتتاح",
+          "type": "person",
+          "slug": "qrqyzstn-ftth"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1255,
+          "cat": "date::1992::",
+          "wikidata_id": null,
+          "term": "1992",
+          "type": "date",
+          "slug": "1992"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1260,
+          "cat": "person::این تئاتر::",
+          "wikidata_id": null,
+          "term": "این تئاتر",
+          "type": "person",
+          "slug": "yn-tytr"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1305,
+          "cat": "person::» ازبکستان::",
+          "wikidata_id": null,
+          "term": "» ازبکستان",
+          "type": "person",
+          "slug": "zbkhstn"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1361,
+          "cat": "person::پایان پیام::",
+          "wikidata_id": null,
+          "term": "پایان پیام",
+          "type": "person",
+          "slug": "pyn-pym"
+        },
+        {
+          "civicfeed_id": null,
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1400,
+          "cat": "person::ویرایش نمایید این مطلب را برای صفحه اول پیشنهاد کنید::",
+          "wikidata_id": null,
+          "term": "ویرایش نمایید این مطلب را برای صفحه اول پیشنهاد کنید",
+          "type": "person",
+          "slug": "wyrysh-nmyyd-yn-mtlb-r-bry-sfhh-wl-pyshnhd-khnyd"
+        }
+      ],
+      "pretext": null,
+      "structured": {},
+      "links": [
+        "https://farsnews.ir/allstories/lead",
+        "https://farsnews.ir/allstories/photo",
+        "https://farsnews.ir/allprovincestories/lead",
+        "https://farsnews.ir/allprovincestories/photo",
+        "https://farsnews.ir/economy/companies-news",
+        "https://farsnews.ir/world/europe-amercia",
+        "https://farsnews.ir/world/asia-pacific",
+        "https://farsnews.ir/world/west-asia",
+        "https://farsnews.ir/world/africa",
+        "https://farsnews.ir/world/islamic-forces",
+        "https://farsnews.ir/world/iran",
+        "https://farsnews.ir/world/Analysis-International",
+        "https://farsnews.ir/world/others",
+        "https://farsnews.ir/politics/leadership",
+        "https://farsnews.ir/politics/parties",
+        "https://farsnews.ir/politics/defense",
+        "https://farsnews.ir/politics/government",
+        "https://farsnews.ir/politics/parliament",
+        "https://farsnews.ir/politics/academic-formations",
+        "https://farsnews.ir/politics/others",
+        "https://farsnews.ir/university/research",
+        "https://farsnews.ir/culture/history",
+        "https://farsnews.ir/sports/football-world",
+        "https://farsnews.ir/sports/world",
+        "https://farsnews.ir/farsplus-magazine/daily-news",
+        "https://farsnews.ir/news/14020206000493",
+        "https://farsnews.ir/printnews/14020206000493",
+        "https://farsnews.ir/mail",
+        "https://farsnews.ir/share/url",
+        "https://farsnews.ir/share",
+        "https://farsnews.ir/sharer.php",
+        "https://farsnews.ir/news/14011108000061/%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D8%B1%D8%A7%D9%87%D8%A8%D8%B1%D8%AF%DB%8C-%D8%A7%D8%B2%D8%A8%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D9%82%D8%B1%D9%82%DB%8C%D8%B2%D8%B3%D8%AA%D8%A7%D9%86",
+        "https://farsnews.ir/news/14010620000442/%D8%B1%D8%A7%DB%8C%D8%B2%D9%86%DB%8C-%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%D9%82%D8%B1%D9%82%DB%8C%D8%B2-%D9%88-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7%DB%8C-%D8%AA%D8%B1%DA%A9%E2%80%8C%D8%B2%D8%A8%D8%A7%D9%86",
+        "https://farsnews.ir/news/14020206000493/undefined"
+      ],
+      "id": 1422163700,
+      "text": "به گزارش خبرنگار خبرگزاری فارس در بیشکک، در منطقه اوش با کمک ازبکستان سالن تئاتر آکادمیک موسیقی و درام ازبکی به نام «بابر» بازسازی و افتتاح شد. در افتتاحیه این تئاتر« عادل بایسالوف» معاون کابینه وزیران و نمایندگان مقامات محلی و هیئتی از ازبکستان به ریاست «آزادبیک نظربکوف» وزیر فرهنگ ازبکستان و «سلطان رایف» دبیرکل سازمان بین المللی ترک حضور داشتند. بایسالوف خاطرنشان کرد تصمیم برای بازسازی این تئاتر پس از سفر «سادیر جباراف» رئیس جمهور قرقیزستان به ازبکستان در سال 2021 اتخاذ شد. اقوام باستانی ما پیوندهای خویشاوندی و نزدیکی بی‌شماری دارند. امروز رؤسای جمهور محترم ما مسیری را برای توسعه فشرده و خیزش ملی، یکپارچگی عمیق متقابل اجتماعی-اقتصادی، فرهنگی و بشردوستانه تعیین کرده‌اند. تنها با هم، از طریق غنی‌سازی متقابل فرهنگ‌ها و اقتصادها، می‌توانیم نه تنها از فرهنگ، زبان و هویت مشترک خود دفاع کنیم، بلکه می‌توانیم جایگاه شایسته‌ای در جامعه جهانی داشته باشیم و با تلاش‌های مشترک، دولت‌های موفقی بسازیم. ازبکستان در مجموع 5 میلیون دلار به این پروژه اختصاص داد. تئاتر درام بابر یکی از اولین تئاترهای آسیای مرکزی است. این تئاتر به صورت دایره‌ای در سال 1918 توسط «رحمان برد مدازیموف» بنیانگذار و سازمان دهنده جنبش تئاتر در قرقیزستان افتتاح شد. پس از استقلال قرقیزستان در سال 1992 این تئاتر به افتخار شاعر«ظاهر الدین محمد بابر» ازبکستان تغییر نام داد. ظرفیت سالن تئاتر 480 نفر است. پایان پیام/ح شما می توانید این مطلب را ویرایش نمایید این مطلب را برای صفحه اول پیشنهاد کنید ",
+      "Content-Type": "text/html",
+      "owner": "7166c64f-418b-4424-b53c-b8fb7855a352",
+      "summary": "در منطقه اوش با کمک مالی ازبکستان به مبلغ 5 میلیون دلار سالن تئاتر آکادمیک موسیقی و درام ازبکی به نام «بابر» بازسازی و افتتاح شد.",
+      "geo_primary": null,
+      "diff_date": 0,
+      "created": 1682613513474,
+      "canonical": "https://www.farsnews.ir/news/14020206000493/بازسازی-سالن-تئاتر-آکادمیک-قرقیزستان-با-5-میلیون-دلار-توسط-ازبکستان",
+      "url": "https://farsnews.ir/news/14020206000493/%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B3%D8%A7%D9%84%D9%86-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D8%A2%DA%A9%D8%A7%D8%AF%D9%85%DB%8C%DA%A9-%D9%82%D8%B1%D9%82%DB%8C%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%A7-5-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%AA%D9%88%D8%B3%D8%B7-%D8%A7%D8%B2%D8%A8%DA%A9%D8%B3%D8%AA%D8%A7%D9%86",
+      "tags": [
+        "news"
+      ],
+      "processed": 1682613518437,
+      "is_original_title": true,
+      "filename": "بازسازی سالن تئاتر آکادمیک قرقیزستان با 5 میلیون دلار توسط ازبکستان",
+      "filename_pretty": "بازسازی سالن تئاتر آکادمیک قرقیزستان با 5 میلیون دلار توسط ازبکستان",
+      "domain": "farsnews.ir",
+      "Author": "خبرگزاری فارس",
+      "geo_secondary": null,
+      "publish_date": 1682613510,
+      "authors": [
+        "خبرگزاری فارس"
+      ]
+    },
+    "fields": {
+      "processed": [
+        "2023-04-27T16:38:38.437Z"
+      ],
+      "publish_date": [
+        "1970-01-20T11:23:33.510Z"
+      ],
+      "created": [
+        "2023-04-27T16:38:33.474Z"
+      ]
+    },
+    "highlight": {
+      "domain": [
+        "@opensearch-dashboards-highlighted-field@farsnews.ir@/opensearch-dashboards-highlighted-field@"
+      ]
+    },
+    "sort": [
+      1682613513474
+    ]
+  }

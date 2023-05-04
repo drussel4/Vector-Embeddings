@@ -1,0 +1,103 @@
+{
+    "_index": "doc_2023-04_7166c64f-418b-4424-b53c-b8fb7855a352",
+    "_type": "_doc",
+    "_id": "1418081310",
+    "_version": 1,
+    "_score": null,
+    "_source": {
+      "sentiment": {
+        "subjectivity": 0.08,
+        "polarity": 0
+      },
+      "workspace": 143875,
+      "language": "en",
+      "source": "اسلام تايمز",
+      "title": "Iran to Launch Regular Weekly Flights to Saudi Arabia - Islam Times",
+      "originalpath": "https://www.islamtimes.org/en/news/1053990/iran-to-launch-regular-weekly-flights-saudi-arabia",
+      "wSpacemeta": {
+        "geo_domain": {
+          "countryCode": "US",
+          "stateCode": "VA"
+        },
+        "geo_primary": "38.7892801,-77.18720359999999",
+        "alexa_rank": 41697,
+        "audience_visits": 0,
+        "category": "community_and_society/faith_and_beliefs",
+        "global_rank": 1037682
+      },
+      "topimage": "docs/143875/1418081310/thumb.webp",
+      "cvf_entities": [
+        {
+          "civicfeed_id": "Iran",
+          "sentiment": {
+            "subjectivity": 0.08,
+            "polarity": null
+          },
+          "offset": 1,
+          "cat": "location::Iran::",
+          "wikidata_id": "Iran",
+          "term": "Iran",
+          "type": "location",
+          "slug": "iran"
+        },
+        {
+          "civicfeed_id": "Arabian_Peninsula",
+          "sentiment": {
+            "subjectivity": 0.08,
+            "polarity": null
+          },
+          "offset": 48,
+          "cat": "location::Arabia::",
+          "wikidata_id": "Arabian_Peninsula",
+          "term": "Arabia",
+          "type": "location",
+          "slug": "arabia"
+        }
+      ],
+      "pretext": null,
+      "structured": {},
+      "id": 1418081310,
+      "text": null,
+      "Content-Type": "text/html",
+      "owner": "7166c64f-418b-4424-b53c-b8fb7855a352",
+      "summary": "Islam Times - Iran is planning to launch regular weekly flights to Saudi Arabia based on an official request from Riyadh and amid an improvement in bilateral relations between the two countries.",
+      "geo_primary": "38.7892801,-77.18720359999999",
+      "diff_date": 0,
+      "is_original": true,
+      "created": 1682360325816,
+      "url": "https://www.islamtimes.org/en/news/1053990/iran-to-launch-regular-weekly-flights-saudi-arabia",
+      "tags": [
+        "news",
+        "news-us",
+        "news-us-va"
+      ],
+      "processed": 1682360325892,
+      "is_original_title": true,
+      "filename": "Iran to Launch Regular Weekly Flights to Saudi Arabia - Islam Times",
+      "filename_pretty": "Iran to Launch Regular Weekly Flights to Saudi Arabia - Islam Times",
+      "domain": "islamtimes.org",
+      "geo_secondary": [
+        "38.7892801,-77.18720359999999"
+      ],
+      "publish_date": 1682360325
+    },
+    "fields": {
+      "processed": [
+        "2023-04-24T18:18:45.892Z"
+      ],
+      "publish_date": [
+        "1970-01-20T11:19:20.325Z"
+      ],
+      "created": [
+        "2023-04-24T18:18:45.816Z"
+      ]
+    },
+    "highlight": {
+      "domain": [
+        "@opensearch-dashboards-highlighted-field@islamtimes.org@/opensearch-dashboards-highlighted-field@"
+      ]
+    },
+    "sort": [
+      1682360325816
+    ]
+  }

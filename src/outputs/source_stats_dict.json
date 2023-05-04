@@ -1,0 +1,125 @@
+{
+    "The Federalist": {
+        "Audience Visits": [
+            "6394407",
+            "6394407",
+            "6394407",
+            "6394407",
+            "6394407",
+            "6394407",
+            "6394407",
+            "6394407"
+        ],
+        "NewsGuard Score": [
+            "12.5",
+            "12.5",
+            "12.5",
+            "12.5",
+            "12.5",
+            "12.5",
+            "12.5",
+            "12.5"
+        ],
+        "NewsGuard Orientation": [
+            "Right",
+            "Right",
+            "Right",
+            "Right",
+            "Right",
+            "Right",
+            "Right",
+            "Right"
+        ],
+        "NewsGuard Rating": [
+            "N",
+            "N",
+            "N",
+            "N",
+            "N",
+            "N",
+            "N",
+            "N"
+        ],
+        "NewsGuard Topic": [
+            "Political news or commentary",
+            "Political news or commentary",
+            "Political news or commentary",
+            "Political news or commentary",
+            "Political news or commentary",
+            "Political news or commentary",
+            "Political news or commentary",
+            "Political news or commentary"
+        ]
+    },
+    "Russia Today": {
+        "Audience Visits": [
+            "148385763"
+        ],
+        "NewsGuard Score": [
+            "12.5"
+        ],
+        "NewsGuard Orientation": [
+            "N/A"
+        ],
+        "NewsGuard Rating": [
+            "N"
+        ],
+        "NewsGuard Topic": [
+            "Health or medical information,Conspiracy theories or hoaxes,Political news or commentary"
+        ]
+    },
+    "Newsmax": {
+        "Audience Visits": [
+            "31143153",
+            "31718281",
+            "31718281",
+            "31718281",
+            "31718281",
+            "31718281",
+            "31718281"
+        ],
+        "NewsGuard Score": [
+            " ",
+            "15",
+            "15",
+            "15",
+            "15",
+            "15",
+            "15"
+        ],
+        "NewsGuard Orientation": [
+            " ",
+            "Right",
+            "Right",
+            "Right",
+            "Right",
+            "Right",
+            "Right"
+        ],
+        "NewsGuard Rating": [
+            " ",
+            "N",
+            "N",
+            "N",
+            "N",
+            "N",
+            "N"
+        ],
+        "NewsGuard Topic": [
+            " ",
+            "Political news or commentary,General News",
+            "Political news or commentary,General News",
+            "Political news or commentary,General News",
+            "Political news or commentary,General News",
+            "Political news or commentary,General News",
+            "Political news or commentary,General News"
+        ]
+    },
+    "Glenn Beck": {
+        "Audience Visits": [],
+        "NewsGuard Score": [],
+        "NewsGuard Orientation": [],
+        "NewsGuard Rating": [],
+        "NewsGuard Topic": []
+    }
+}

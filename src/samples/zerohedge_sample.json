@@ -1,0 +1,85 @@
+{
+    "_index": "doc_2023-04_7166c64f-418b-4424-b53c-b8fb7855a352",
+    "_type": "_doc",
+    "_id": "1420275343",
+    "_version": 1,
+    "_score": null,
+    "_source": {
+      "sentiment": {
+        "subjectivity": 0.1,
+        "polarity": 0
+      },
+      "workspace": 3145,
+      "language": "en",
+      "source": "Zerohedge",
+      "title": "45% Of Americans Above Age 50 Play Video Games, And Feel Neglected By Industry",
+      "originalpath": "https://www.zerohedge.com/technology/45-americans-above-age-50-play-video-games-and-feel-neglected-industry",
+      "wSpacemeta": {
+        "geo_domain": {
+          "countryCode": "BG",
+          "stateCode": null
+        },
+        "newsguard": {
+          "score": 15,
+          "orientation": "N/A",
+          "rating": "N",
+          "topic": "Conspiracy theories or hoaxes",
+          "type": "Aggregation"
+        },
+        "geo_primary": "42.6977082,23.3218675",
+        "alexa_rank": 1555,
+        "audience_visits": 1049602,
+        "category": "Computers_Electronics_and_Technology/Computers_Electronics_and_Technology",
+        "global_rank": 0,
+        "email_pattern": "{first}@feeds.feedburner.com"
+      },
+      "topimage": "docs/3145/1420275343/thumb.webp",
+      "cvf_entities": [],
+      "pretext": null,
+      "structured": {},
+      "id": 1420275343,
+      "text": null,
+      "Content-Type": "text/html",
+      "owner": "7166c64f-418b-4424-b53c-b8fb7855a352",
+      "geo_primary": "42.6977082,23.3218675",
+      "diff_date": 0,
+      "created": 1682483491429,
+      "url": "https://www.zerohedge.com/technology/45-americans-above-age-50-play-video-games-and-feel-neglected-industry",
+      "tags": [
+        "news",
+        "news-us",
+        "news-glob",
+        "news-bg",
+        "ng-disinfo",
+        "news-ng-disinfo"
+      ],
+      "processed": 1682483494957,
+      "is_original_title": true,
+      "filename": "45% Of Americans Above Age 50 Play Video Games, And Feel Neglected By Industry",
+      "filename_pretty": "45% Of Americans Above Age 50 Play Video Games, And Feel Neglected By Industry",
+      "domain": "zerohedge.com",
+      "geo_secondary": [
+        "42.6977082,23.3218675"
+      ],
+      "publish_date": 1682483491
+    },
+    "fields": {
+      "processed": [
+        "2023-04-26T04:31:34.957Z"
+      ],
+      "publish_date": [
+        "1970-01-20T11:21:23.491Z"
+      ],
+      "created": [
+        "2023-04-26T04:31:31.429Z"
+      ]
+    },
+    "highlight": {
+      "domain": [
+        "@opensearch-dashboards-highlighted-field@zerohedge.com@/opensearch-dashboards-highlighted-field@"
+      ]
+    },
+    "sort": [
+      1682483491429
+    ]
+  }

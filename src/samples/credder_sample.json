@@ -1,0 +1,141 @@
+{
+    "_index": "doc_2022-01_7166c64f-418b-4424-b53c-b8fb7855a352",
+    "_type": "_doc",
+    "_id": "883373147",
+    "_version": 1,
+    "_score": null,
+    "_source": {
+      "sentiment": {
+        "subjectivity": 0.380952380952381,
+        "polarity": 0.19285714285714287
+      },
+      "workspace": 1037068,
+      "source": "credder.com",
+      "title": "Credder | There is a Texas Law Prohibiting More Than Six Dildos and Now I'm Confused - Famadillo.com",
+      "originalpath": "https://credder.com/article/322126/there-is-a-texas-law-prohibiting-more-than-six-dildos-and-now-i-m-confused-famadillo-com",
+      "wSpacemeta": {},
+      "topimage": "docs/1037068/883373147/thumb.webp",
+      "cvf_entities": [
+        {
+          "descriptors": [
+            "a Texas Law"
+          ],
+          "sentiment": {
+            "subjectivity": 0.5,
+            "polarity": 0.5
+          },
+          "offset": 22,
+          "cat": "location::Texas::",
+          "term": "Texas",
+          "type": "location",
+          "slug": "texas"
+        },
+        {
+          "descriptors": [
+            "· POLITICSJanuary",
+            "U.S.",
+            "Confused - Famadillo.com"
+          ],
+          "sentiment": {
+            "subjectivity": 0.7,
+            "polarity": -0.4
+          },
+          "civicfeed_id": "United_States",
+          "offset": 102,
+          "cat": "location::U.S.::",
+          "term": "U.S.",
+          "type": "location",
+          "civicfeed_term": "United States",
+          "slug": "us"
+        },
+        {
+          "descriptors": [
+            "a law",
+            "Texas"
+          ],
+          "sentiment": {
+            "subjectivity": 0.5,
+            "polarity": 0.5
+          },
+          "offset": 220,
+          "cat": "location::Texas::",
+          "term": "Texas",
+          "type": "location",
+          "slug": "texas"
+        },
+        {
+          "descriptors": null,
+          "sentiment": {
+            "subjectivity": 0,
+            "polarity": 0
+          },
+          "offset": 613,
+          "cat": "product::score0::",
+          "term": "score0",
+          "type": "product",
+          "slug": "score0"
+        },
+        {
+          "descriptors": null,
+          "sentiment": {
+            "subjectivity": 0,
+            "polarity": 0
+          },
+          "offset": 634,
+          "cat": "product::score1::",
+          "term": "score1",
+          "type": "product",
+          "slug": "score1"
+        }
+      ],
+      "pretext": null,
+      "structured": {},
+      "links": [
+        "https://credder.com/article/322126/undefined",
+        "https://credder.com/topic/international",
+        "https://credder.com/topic/politics",
+        "https://credder.com/there-is-a-texas-law-prohibiting-more-than-six-dildos",
+        "https://credder.com/1d136ae9e2cb/credder-newsletter"
+      ],
+      "id": 883373147,
+      "text": "U.S. · POLITICSJanuary 5, 20221 min read, 293 words Published January 5, 2022 1 min read, 293 words There is a law in Texas that seems to prohibit the ownership of more than six dildos. First, when I read this, I thought it was a joke. But as you can see from the link in , it's not a joke. amp;nbsp;Now, of course, this leads to more questions. amp;nbsp;First, what makes the dildos more...No article scores yet There are no critic or public scores for this article yet. critic reviews 0public reviews 0critic score0 reviewspublic score1 reviewsCRITIC REVIEWSThere don't seem to be any reviews yet PUBLIC REVIEWSThere don't seem to be any reviews yet. ",
+      "Content-Type": "text/html",
+      "owner": "7166c64f-418b-4424-b53c-b8fb7855a352",
+      "geo_primary": null,
+      "diff_date": 6,
+      "created": 1641999174914,
+      "url": "https://credder.com/article/322126/there-is-a-texas-law-prohibiting-more-than-six-dildos-and-now-i-m-confused-famadillo-com",
+      "tags": [
+        "news"
+      ],
+      "processed": 1641999175110,
+      "filename": "Credder | There is a Texas Law Prohibiting More Than Six Dildos and Now I'm Confused - Famadillo.com",
+      "filename_pretty": "Credder | There is a Texas Law Prohibiting More Than Six Dildos and Now I'm Confused - Famadillo.com",
+      "domain": "credder.com",
+      "geo_secondary": null,
+      "publish_date": 1641419254,
+      "hash": "2465052046c42ac874700fb6a70bc9b1bce048ea56040b8feb6c3441ad9d36f5",
+      "authors": [
+        "in famadillo.com"
+      ]
+    },
+    "fields": {
+      "processed": [
+        "2022-01-12T14:52:55.110Z"
+      ],
+      "publish_date": [
+        "1970-01-19T23:56:59.254Z"
+      ],
+      "created": [
+        "2022-01-12T14:52:54.914Z"
+      ]
+    },
+    "highlight": {
+      "domain": [
+        "@opensearch-dashboards-highlighted-field@credder.com@/opensearch-dashboards-highlighted-field@"
+      ]
+    },
+    "sort": [
+      1641999174914
+    ]
+  }

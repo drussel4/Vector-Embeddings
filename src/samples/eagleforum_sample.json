@@ -1,0 +1,59 @@
+{
+    "_index": "doc_2023-04_7166c64f-418b-4424-b53c-b8fb7855a352",
+    "_type": "_doc",
+    "_id": "1394457770",
+    "_version": 1,
+    "_score": null,
+    "_source": {
+      "sentiment": {
+        "subjectivity": 0,
+        "polarity": 0
+      },
+      "workspace": 1183478,
+      "language": "en",
+      "source": "eagleforum.org",
+      "title": "Registration",
+      "originalpath": "http://eagleforum.org/?page_id=103656",
+      "wSpacemeta": {},
+      "cvf_entities": [],
+      "pretext": null,
+      "id": 1394457770,
+      "text": null,
+      "owner": "7166c64f-418b-4424-b53c-b8fb7855a352",
+      "geo_primary": null,
+      "diff_date": 0,
+      "created": 1680620781990,
+      "url": "http://eagleforum.org/?page_id=103656",
+      "tags": [
+        "news"
+      ],
+      "processed": 1680620781990,
+      "is_original_title": false,
+      "filename": "Registration",
+      "filename_pretty": "Registration",
+      "domain": "eagleforum.org",
+      "Author": "Eagle Forum",
+      "geo_secondary": null,
+      "original_title_doc_id": "1226021190",
+      "publish_date": 1680620781
+    },
+    "fields": {
+      "processed": [
+        "2023-04-04T15:06:21.990Z"
+      ],
+      "publish_date": [
+        "1970-01-20T10:50:20.781Z"
+      ],
+      "created": [
+        "2023-04-04T15:06:21.990Z"
+      ]
+    },
+    "highlight": {
+      "domain": [
+        "@opensearch-dashboards-highlighted-field@eagleforum.org@/opensearch-dashboards-highlighted-field@"
+      ]
+    },
+    "sort": [
+      1680620781990
+    ]
+  }

@@ -1,0 +1,528 @@
+{
+    "_index": "doc_2023-04_7166c64f-418b-4424-b53c-b8fb7855a352",
+    "_type": "_doc",
+    "_id": "1414363346",
+    "_version": 2,
+    "_score": null,
+    "_source": {
+      "sentiment": {
+        "subjectivity": 0.5,
+        "polarity": -0.5
+      },
+      "workspace": 7139,
+      "language": "en",
+      "source": "RT",
+      "title": "China's economy beats the grim predictions of Western wishful thinkers",
+      "originalpath": "https://www.rt.com/news/575078-china-economy-west-predictions/",
+      "wSpacemeta": {
+        "geo_domain": {
+          "countryCode": "DE",
+          "stateCode": null
+        },
+        "newsguard": {
+          "score": 20,
+          "orientation": "N/A",
+          "rating": "N",
+          "topic": "Health or medical information,Conspiracy theories or hoaxes,Political news or commentary",
+          "type": "Wire Services"
+        },
+        "geo_primary": "52.52000659999999,13.404954",
+        "alexa_rank": 325,
+        "audience_visits": 148385763,
+        "category": "News_and_Media",
+        "global_rank": 347,
+        "email_pattern": "{last}@rt.com"
+      },
+      "topimage": "docs/7139/1414363346/thumb.webp",
+      "cvf_entities": [
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.35,
+            "polarity": -0.05
+          },
+          "offset": 1,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.35,
+            "polarity": -0.05
+          },
+          "offset": 80,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.6,
+            "polarity": 0.12
+          },
+          "offset": 377,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic",
+          "sentiment": {
+            "subjectivity": 0.6,
+            "polarity": 0.12
+          },
+          "offset": 471,
+          "cat": "pandemic::Covid-19 pandemic::",
+          "wikidata_id": "COVID-19_pandemic",
+          "term": "Covid-19 pandemic",
+          "type": "pandemic",
+          "slug": "covid-19-pandemic"
+        },
+        {
+          "civicfeed_id": "China",
+          "sentiment": {
+            "subjectivity": 0.6,
+            "polarity": 0.12
+          },
+          "offset": 595,
+          "cat": "location::Chinese::",
+          "wikidata_id": "China",
+          "term": "Chinese",
+          "type": "location",
+          "slug": "chinese"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.35,
+            "polarity": -0.12
+          },
+          "offset": 808,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "China",
+          "sentiment": {
+            "subjectivity": 0.07,
+            "polarity": 0.07
+          },
+          "offset": 968,
+          "cat": "location::Chinese::",
+          "wikidata_id": "China",
+          "term": "Chinese",
+          "type": "location",
+          "slug": "chinese"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.37,
+            "polarity": 0.07
+          },
+          "offset": 1117,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.48,
+            "polarity": 0.06
+          },
+          "offset": 1213,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.48,
+            "polarity": 0.06
+          },
+          "offset": 1288,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.48,
+            "polarity": 0.06
+          },
+          "offset": 1332,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "New_York_City",
+          "sentiment": {
+            "subjectivity": 0.48,
+            "polarity": 0.06
+          },
+          "offset": 1396,
+          "cat": "location::New York::",
+          "wikidata_id": "New_York_City",
+          "term": "New York",
+          "type": "location",
+          "slug": "new-york"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.48,
+            "polarity": 0.06
+          },
+          "offset": 1413,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "United_States",
+          "sentiment": {
+            "subjectivity": 0.38,
+            "polarity": 0.12
+          },
+          "offset": 1668,
+          "cat": "location::United States::",
+          "wikidata_id": "United_States",
+          "term": "United States",
+          "type": "location",
+          "slug": "united-states"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.75,
+            "polarity": 0.8
+          },
+          "offset": 1871,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.31,
+            "polarity": 0.1
+          },
+          "offset": 1926,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.31,
+            "polarity": 0.1
+          },
+          "offset": 2057,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.31,
+            "polarity": 0.1
+          },
+          "offset": 2149,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.31,
+            "polarity": 0.1
+          },
+          "offset": 2230,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "Francis_Fukuyama",
+          "sentiment": {
+            "subjectivity": 0.47,
+            "polarity": 0.08
+          },
+          "offset": 2582,
+          "cat": "person::Fukuyama::",
+          "wikidata_id": "Francis_Fukuyama",
+          "term": "Fukuyama",
+          "type": "person",
+          "slug": "fukuyama"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.47,
+            "polarity": 0.08
+          },
+          "offset": 2867,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "Gordon_G._Chang",
+          "sentiment": {
+            "subjectivity": 0.47,
+            "polarity": 0.08
+          },
+          "offset": 2882,
+          "cat": "person::Gordon Chang::",
+          "wikidata_id": "Gordon_G._Chang",
+          "term": "Gordon Chang",
+          "type": "person",
+          "slug": "gordon-chang"
+        },
+        {
+          "civicfeed_id": "China",
+          "sentiment": {
+            "subjectivity": 0.13,
+            "polarity": -0.02
+          },
+          "offset": 3029,
+          "cat": "location::Chinese::",
+          "wikidata_id": "China",
+          "term": "Chinese",
+          "type": "location",
+          "slug": "chinese"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 3218,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 3328,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.25,
+            "polarity": 0.04
+          },
+          "offset": 3579,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "COVID-19_pandemic_in_mainland_China",
+          "sentiment": {
+            "subjectivity": 0.1,
+            "polarity": 0.1
+          },
+          "offset": 3712,
+          "cat": "pandemic::China::",
+          "wikidata_id": "COVID-19_pandemic_in_mainland_China",
+          "term": "China",
+          "type": "pandemic",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "China",
+          "sentiment": {
+            "subjectivity": 0.38,
+            "polarity": null
+          },
+          "offset": 167,
+          "cat": "location::China::",
+          "wikidata_id": "China",
+          "term": "China",
+          "type": "location",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "China",
+          "sentiment": {
+            "subjectivity": 0.28,
+            "polarity": 0.3
+          },
+          "offset": 306,
+          "cat": "location::Chinese::",
+          "wikidata_id": "China",
+          "term": "Chinese",
+          "type": "location",
+          "slug": "chinese"
+        },
+        {
+          "civicfeed_id": "China",
+          "sentiment": {
+            "subjectivity": 0.5,
+            "polarity": 0.16
+          },
+          "offset": 620,
+          "cat": "location::China::",
+          "wikidata_id": "China",
+          "term": "China",
+          "type": "location",
+          "slug": "china"
+        },
+        {
+          "civicfeed_id": "China",
+          "sentiment": {
+            "subjectivity": 0.23,
+            "polarity": 0.2
+          },
+          "offset": 697,
+          "cat": "location::China::",
+          "wikidata_id": "China",
+          "term": "China",
+          "type": "location",
+          "slug": "china"
+        }
+      ],
+      "pretext": null,
+      "structured": {},
+      "links": [
+        "https://www.rt.com/news/undefined",
+        "https://www.rt.com/news",
+        "https://www.rt.com/tags/feature",
+        "https://www.rt.com/2023/04/19/jpmorgan-citi-chinas-full-year.html",
+        "https://www.rt.com/op-eds/the-end-of-the-chinese-economic-miracle",
+        "https://www.rt.com/sites/billconerly/2021/05/04/chinas-economic-miracle-is-ending",
+        "https://www.rt.com/features/2023/1/24/is-chinas-high-growth-era-over",
+        "https://www.rt.com/articles/china/2021-10-01/end-chinas-rise",
+        "https://www.rt.com/2023/03/23/business/china-xi-jinping-russia-putin.html",
+        "https://www.rt.com/page/202201/1250161.shtml",
+        "https://www.rt.com/news/574882-lula-china-trip-us",
+        "https://www.rt.com/news/575103-cia-head-biden-election",
+        "https://www.rt.com/news/575109-germany-railway-paralyzed-strike",
+        "https://www.rt.com/news/575104-twitter-verification-marks-purge",
+        "https://www.rt.com/russia/575112-lpr-severodonetsk-photo-report",
+        "https://www.rt.com/news/575021-us-spying-on-un-chief",
+        "https://www.rt.com/russia/574532-stalin-against-jews-doctors-case",
+        "https://www.rt.com/files/2023.04/64425f4f85f540400f107a8d.mp3",
+        "https://www.rt.com/files/2023.04/644228ac85f54033a71315bd.mp3",
+        "https://www.rt.com/sponsored-content"
+      ],
+      "id": 1414363346,
+      "text": "Data on China's gross domestic product (GDP) published this week revealed that the country's economy grew by 4.5% in the first quarter of 2023, beating expectations Upon hearing the news, major economists, organizations, and banks quickly scaled up their forecasts for the year. Now expectations are that China will likely beat its own target and grow more than 6% this year as it recovers from the Covid-19 pandemic, which saw the country's growth and economy suffer due to sporadic lockdowns and containment measures The Chinese economy has yet again, amidst an absolute tidal wave of negative circumstances, surpassed expectations. Over the course of the last two years, there has been an endless parade of articles proclaiming that China's growth miracle, its rise, and prosperity were all now over. The American Enterprise Institute, a neoconservative think tank, proclaimed 'The End of the Chinese Economic Miracle' in an article in November 2022. The list of poor predictions is lengthy. A year earlier, a Forbes headline similarly said 'China's Economic Miracle is Ending'. There were more, such as an Al-Jazeera op-ed stating that \"China's period of rapid growth is likely over,\" 'Revising down the rise of China' from the Lowy Institute, 'The End of China's Rise' from Foreign Affairs, and just a month ago in the New York Times, 'China's Rise Relied on Ties to the West, Which Xi Is Now Loosening'. How is it that so many organizations and publications, all churning out the same doom and gloom narrative, managed to get it wrong? You will rarely hear from these same outlets that the United States will barely grow at all this year – perhaps a bit over 1%, if that. Yet, the US economy is always treated in reporting with great optimism, even claiming that the US is growing faster than China. Why so? Because predictions and punditry around China's economy are laden with ideological and political bias and aim not to reaffirm facts but to push the grander narrative that China's system \"must\" and \"will\" fail concurrently In the world we live in now, the fear of China's success permeates this psychology even further, ingraining the idea that China's continued success is a vindication of its own model and ideology above that advocated by the West. Western ideology, after all, derived from Christianity, has a sense of \"destiny\" to it, the belief that it is the one \"truthful\" way and that all other belief systems are inherently false and doomed to fail. This concept is what spurred Francis Fukuyama's infamous \"End of History\" thesis, and even today he continues to believe that Western liberal capitalism will win in the end Such mindsets help us understand why, despite having become a laughingstock in some circles for publishing a book in 2001 predicting the collapse of China in 2011, Gordon Chang somehow maintains mainstream media credibility. There is a pressing belief in, a hope for, and a demand to propagate the narrative of Chinese failure, insomuch that every single development or setback the country faces is depicted as being fundamentally fatal to its success. As a result, the strict zero-Covid controls on China's economy were depicted as being the death knell for its growth and development, even to the point that China would never succeed in overtaking the US. Of course, there are real challenges these articles keep mentioning over and over, one of them being that demographic changes brought about by an aging population and low childbirth rates will undermine China's international competitiveness, and therefore in the long run, its growth. But what these commentators often overlook is that China has a scope and ability to manage and organize its economy in a way which Western societies do not, which allows it to defy economic gravity and keep ticking forwards in ways not well understood. For example, this includes the ability to invest in and create infrastructure on a whim, in a way Western countries cannot. Also, the state has the ability to identify and subsidize industries of growth, and of course in this instance the sheer size of China's ever growing and maturing consumer market, which is now springing back from the pandemic. The Western pundits have bet against the Chinese economy so many times that they will never have anything good to say about it. Not only do they anticipate its failure and hope for it, but they also hope they can assist its failure by scaring away investors and souring the optimism which fuelled its growth. But there's little sign that is happening, as China is the largest and most comprehensive trading nation in the world. The China train rolls on, and the country's development, despite severe geopolitical challenges, a fraying global economic climate, and some genuine issues which do exist at home (we shouldn't pretend they don't), is still doing well. Thus, its latest growth figure, and the independent third-party forecasts, have brought embarrassment to so many publications this week The statements, views and opinions expressed in this column are solely those of the author and do not necessarily represent those of RT. ",
+      "Content-Type": "text/html",
+      "owner": "7166c64f-418b-4424-b53c-b8fb7855a352",
+      "summary": "Beijing’s growth figures defy pundit hopes and expectations of its fall",
+      "geo_primary": "52.52000659999999,13.404954",
+      "diff_date": 0,
+      "is_original": true,
+      "created": 1682087889045,
+      "url": "https://www.rt.com/news/575078-china-economy-west-predictions",
+      "tags": [
+        "news",
+        "us-state-us",
+        "news-us",
+        "news-glob",
+        "owned",
+        "state-media",
+        "news-de",
+        "news-ng-disinfo"
+      ],
+      "processed": 1682087889081,
+      "is_original_title": true,
+      "filename": "China's economy beats the grim predictions of Western wishful thinkers",
+      "filename_pretty": "China's economy beats the grim predictions of Western wishful thinkers",
+      "domain": "rt.com",
+      "geo_secondary": [
+        "52.52000659999999,13.404954"
+      ],
+      "publish_date": 1682087889,
+      "authors": [],
+      "socialcount_timeline": [
+        {
+          "fb_share": 0,
+          "fb_reactions": null,
+          "fb_cm": null,
+          "timestamp": "2023-04-21T14:45:50Z"
+        }
+      ],
+      "socialcount_last": 0
+    },
+    "fields": {
+      "processed": [
+        "2023-04-21T14:38:09.081Z"
+      ],
+      "socialcount_timeline.timestamp": [
+        "2023-04-21T14:45:50.000Z"
+      ],
+      "publish_date": [
+        "1970-01-20T11:14:47.889Z"
+      ],
+      "created": [
+        "2023-04-21T14:38:09.045Z"
+      ]
+    },
+    "highlight": {
+      "domain": [
+        "@opensearch-dashboards-highlighted-field@rt.com@/opensearch-dashboards-highlighted-field@"
+      ]
+    },
+    "sort": [
+      1682087889045
+    ]
+  }

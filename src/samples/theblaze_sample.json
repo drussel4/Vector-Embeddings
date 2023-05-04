@@ -1,0 +1,80 @@
+{
+    "_index": "doc_2023-04_7166c64f-418b-4424-b53c-b8fb7855a352",
+    "_type": "_doc",
+    "_id": "1422291206",
+    "_version": 1,
+    "_score": null,
+    "_source": {
+      "sentiment": {
+        "subjectivity": 0.8,
+        "polarity": 0.4
+      },
+      "workspace": 1955,
+      "language": "en",
+      "source": "TheBlaze",
+      "title": "Over 100 Harvard professors band together to protect free speech, prevent censorship on campus during 'crisis time'",
+      "originalpath": "https://www.theblaze.com/news/over-100-harvard-professors-band-together-to-protect-free-speech-prevent-censorship-on-campus-during-crisis-time",
+      "wSpacemeta": {
+        "newsguard": {
+          "score": 62,
+          "orientation": "Right",
+          "rating": "T",
+          "topic": "Political news or commentary,General News",
+          "type": "Aggregation"
+        },
+        "alexa_rank": 9475,
+        "audience_visits": 14477433,
+        "category": "News_and_Media",
+        "global_rank": 5787,
+        "email_pattern": "{f}{last}@theblaze.com"
+      },
+      "topimage": "docs/1955/1422291206/thumb.webp",
+      "cvf_entities": [],
+      "pretext": null,
+      "structured": {},
+      "id": 1422291206,
+      "text": null,
+      "Content-Type": "text/html",
+      "owner": "7166c64f-418b-4424-b53c-b8fb7855a352",
+      "summary": "More than 100 Harvard professors and faculty members have banded together to form the new Council on Academic Freedom to protect free speech and prevent censorship on campus during a \"crisis time.\"Steven Pinker, the council's co-founder and Harvard psychology professor, published an op-ed in the Bos...",
+      "geo_primary": "32.814018,-96.948894",
+      "diff_date": 0,
+      "is_original": true,
+      "created": 1682623905514,
+      "url": "https://www.theblaze.com/news/over-100-harvard-professors-band-together-to-protect-free-speech-prevent-censorship-on-campus-during-crisis-time",
+      "tags": [
+        "news",
+        "news-us",
+        "news-glob"
+      ],
+      "processed": 1682623907598,
+      "is_original_title": false,
+      "filename": "Over 100 Harvard professors band together to protect free speech, prevent censorship on campus during 'crisis time'",
+      "filename_pretty": "Over 100 Harvard professors band together to protect free speech, prevent censorship on campus during 'crisis time'",
+      "domain": "theblaze.com",
+      "geo_secondary": [
+        "32.814018,-96.948894"
+      ],
+      "original_title_doc_id": "1422291374",
+      "publish_date": 1682623905
+    },
+    "fields": {
+      "processed": [
+        "2023-04-27T19:31:47.598Z"
+      ],
+      "publish_date": [
+        "1970-01-20T11:23:43.905Z"
+      ],
+      "created": [
+        "2023-04-27T19:31:45.514Z"
+      ]
+    },
+    "highlight": {
+      "domain": [
+        "@opensearch-dashboards-highlighted-field@theblaze.com@/opensearch-dashboards-highlighted-field@"
+      ]
+    },
+    "sort": [
+      1682623905514
+    ]
+  }

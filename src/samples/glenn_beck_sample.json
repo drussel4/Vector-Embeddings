@@ -1,0 +1,247 @@
+{
+    "_index": "doc_2023-04_7166c64f-418b-4424-b53c-b8fb7855a352",
+    "_type": "_doc",
+    "_id": "1419857105",
+    "_version": 1,
+    "_score": null,
+    "_source": {
+      "sentiment": {
+        "subjectivity": 0,
+        "polarity": 0
+      },
+      "workspace": 6629,
+      "language": "en",
+      "source": "Glenn Beck",
+      "title": "Bill O’Reilly, Megyn Kelly give INSIDE VIEW on Tucker Carlson/Fox News",
+      "originalpath": "https://www.glennbeck.com/radio/bill-oreilly-megyn-kelly-tucker-carlson-fox-news",
+      "wSpacemeta": {
+        "geo_domain": {
+          "countryCode": "US",
+          "stateCode": "TX"
+        },
+        "newsguard": {
+          "score": 44.5,
+          "orientation": "Right",
+          "rating": "N",
+          "topic": "Political news or commentary",
+          "type": null
+        },
+        "geo_primary": "32.8940924,-96.93915369999999",
+        "alexa_rank": 142322,
+        "audience_visits": 895668,
+        "category": "Arts_and_Entertainment/Music",
+        "global_rank": 55158,
+        "email_pattern": "{first}@glennbeck.com"
+      },
+      "topimage": "docs/6629/1419857105/thumb.webp",
+      "cvf_entities": [
+        {
+          "civicfeed_id": "Bill_O'Reilly_(political_commentator)",
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1,
+          "cat": "person::Bill O'Reilly::",
+          "wikidata_id": "Bill_O'Reilly_(political_commentator)",
+          "term": "Bill O'Reilly",
+          "type": "person",
+          "slug": "bill-o-reilly"
+        },
+        {
+          "civicfeed_id": "Megyn_Kelly",
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 16,
+          "cat": "person::Megyn Kelly::",
+          "wikidata_id": "Megyn_Kelly",
+          "term": "Megyn Kelly",
+          "type": "person",
+          "slug": "megyn-kelly"
+        },
+        {
+          "civicfeed_id": "Tucker_Carlson",
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 48,
+          "cat": "person::Tucker Carlson::",
+          "wikidata_id": "Tucker_Carlson",
+          "term": "Tucker Carlson",
+          "type": "person",
+          "slug": "tucker-carlson"
+        },
+        {
+          "civicfeed_id": "Stu_Hart",
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 2623,
+          "cat": "person::Stu::",
+          "wikidata_id": "Stu_Hart",
+          "term": "Stu",
+          "type": "person",
+          "slug": "stu"
+        },
+        {
+          "civicfeed_id": "Old_National_Bank",
+          "sentiment": {
+            "subjectivity": 0.1,
+            "polarity": -0.05
+          },
+          "offset": 1775,
+          "cat": "company::Old National Bank::",
+          "wikidata_id": "Old_National_Bank",
+          "term": "Old National Bank",
+          "type": "company",
+          "slug": "old-national-bank"
+        },
+        {
+          "civicfeed_id": "Kentucky",
+          "sentiment": {
+            "subjectivity": 0.14,
+            "polarity": 0
+          },
+          "offset": 2146,
+          "cat": "location::Kentucky::",
+          "wikidata_id": "Kentucky",
+          "term": "Kentucky",
+          "type": "location",
+          "slug": "kentucky"
+        },
+        {
+          "civicfeed_id": "Imagine_Software",
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 2591,
+          "cat": "company::Imagine::",
+          "wikidata_id": "Imagine_Software",
+          "term": "Imagine",
+          "type": "company",
+          "slug": "imagine"
+        },
+        {
+          "civicfeed_id": "Ray_Epps",
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 2752,
+          "cat": "person::Ray Epps::",
+          "wikidata_id": "Ray_Epps",
+          "term": "Ray Epps",
+          "type": "person",
+          "slug": "ray-epps"
+        },
+        {
+          "civicfeed_id": "Joe_Biden",
+          "sentiment": {
+            "subjectivity": 0.27,
+            "polarity": 0.14
+          },
+          "offset": 172,
+          "cat": "person::Biden::",
+          "wikidata_id": "Joe_Biden",
+          "term": "Biden",
+          "type": "person",
+          "slug": "biden"
+        },
+        {
+          "civicfeed_id": "Friedrich_Nietzsche",
+          "sentiment": {
+            "subjectivity": 0.65,
+            "polarity": 0.35
+          },
+          "offset": 854,
+          "cat": "person::Nietzsche::",
+          "wikidata_id": "Friedrich_Nietzsche",
+          "term": "Nietzsche",
+          "type": "person",
+          "slug": "nietzsche"
+        },
+        {
+          "civicfeed_id": "Adolf_Hitler",
+          "sentiment": {
+            "subjectivity": null,
+            "polarity": null
+          },
+          "offset": 1079,
+          "cat": "person::Adolf Hitler::",
+          "wikidata_id": "Adolf_Hitler",
+          "term": "Adolf Hitler",
+          "type": "person",
+          "slug": "adolf-hitler"
+        }
+      ],
+      "pretext": null,
+      "structured": {},
+      "links": [
+        "https://www.glennbeck.com/articles",
+        "https://www.glennbeck.com/research",
+        "https://www.glennbeck.com/topic/politics",
+        "https://www.glennbeck.com/topic/good-news",
+        "https://www.glennbeck.com/topic/world-news",
+        "https://www.glennbeck.com/st/newsletter",
+        "https://www.glennbeck.com/content/articles/article/site/termsofuse",
+        "https://www.glennbeck.com/content/articles/article/site/mercury-radio-arts-inc-privacy-policy",
+        "https://www.glennbeck.com/show-prep/glenns-show-prep-2022-07-11",
+        "https://www.glennbeck.com/glenn-beck-podcast/honest-conversation-about-surviving-depression",
+        "https://www.glennbeck.com/radio/losing-tucker-carlson-destroy-fox-news"
+      ],
+      "id": 1419857105,
+      "text": "Okay. So the Nashville shooter, she goes in, kills six, at the Covenant Elementary School. She's shot by police. They grab a manifesto. And there are two manifestos apparently One is why she did it. And all her thoughts behind it. And the other one is like, here's what I'm going to do And they're now saying that the FBI won't release it. So it's out of the Nashville police hands, apparently. It's now with the FBI And who doesn't trust the FBI So they -- they're not going to do it. Because they said, that it is -- it's very disturbing And it would be -- I'm quoting Astronomically dangerous Wow.STU That's --GLENN Astronomically dangerous STU Very, very strange. And seemingly, there's a path here, right Astronomically dangerous, to whom Now, she's talking about, apparently. And, again, I'm calling her, her Because she's a woman, okay The entire media has abandoned their policy, of welcoming a gender transition. Because she identifies as a man. Yet, nowhere in any article, do they actually call her a he.Why? Why in this one case, have they abandoned this policy, that they say, you are a complete hatemonger, if you -- it's dead naming. They're dead naming this shooter Now, I am completely for that. Whatever she would want in life, I want the opposite to happen, in her wake. That's what I want GLENN Well, I don't mean to be -- I don't want to be vindictive about it. I just want to tell them STU She went and killed a bunch of 9-year-olds. I kind of want to feel a little vindictive. That might not be the most Biblically based belief I have GLENN I don't think that's Biblically based at all STU Perhaps. But there are times in which my emotions maybe get the best of me GLENN No, I know STU So we'll just say, leave that aside for a moment GLENN No. It's hard to be like me all the time, especially the humility part of me. I mean, there is nobody more humble than me. And you know that STU You're the humblest GLENN There should be an award for this, but anyway, I'm too humble to ask for it STU But the path here is interesting, I think Because they're saying, it's incredibly dangerous. I don't know. Does she have a decoder ring for our arsenal What do you mean it's astronomically dangerous GLENN There's two things though There's her, why I did it. And what I'm planning. And what I guess the FBI is saying, is the -- the part where she's planning, somebody -- they said it would be very, very dangerous. Because somebody else could get it, and pick it up where she left off Well, I don't think it's all that hard. Unless like Stu said, she has codes to the nuclear We don't need that. But I think you're fooling yourself, if you are thinking that crazy people can't up with a plan to kill a lot of people. You know what I mean STU Right GLENN Now, maybe it was, let's target the G.O.P. headquarters Because I believe the FBI is trying to protect something. I mean, I just don't think it's the American people. STU No. And what I think it is, if I may propose a guess here GLENN Yes STU Is, Glenn, do you know what evil conservatives would do, if they -- if they read this manifesto, by this trans person They would target the trans community GLENN Well, they did say that STU That's -- that is what they're saying So when a trans person kills 9-year-olds. The danger are conservatives, who might go after other unrelated trans people GLENN Well, can I just tell you something here Can I tell you something We have 350 million guns. They're in the hands of most of the conservatives Very few liberals. Okay Just want to make this really clear If there was a problem, you would know about it STU Right GLENN I mean --STU It is a -- it is a bizarre inconsistency in their argument, as you note here But like, there's a -- there's a quote from a guy from John Jay College of Criminal Justice. And he said, I think what the FBI is really concerned with, and I think law enforcement, is that if there's something in there, that is truly damaging for the transgender community I think they're hesitant to do it. Because they're afraid of a violent backlash against that protected class of people. GLENN What would be in there, that would be so damaging? This is a crazy person STU Honestly, what could she have written? That would be worse than murdering 9-year-olds I don't know. And again, I have not seen any backlash against your everyday trans person for these murders. I think what you note about conservatives, is that we tend to treat people as individuals. So the people actually murdering 9-year-olds, yes, we want consequences to come to them. The people actually jiggling their naked genitals in front of kids' faces, we think there should be legal consequences there too. But we don't blame every single person that has similar immutable characteristics, or mutable characteristics, because they share them with criminals. You don't blame the group. That's the left's thing to do. And maybe that's why every media source seems to get on these bandwagons, because that's what they think GLENN Well, they always finger themselves STU That's. People. People You with your dirty minds. I know you --GLENN Filthy STU This is the audience's fault, not yours, Glenn. Is this their fault for where their mind went. I blame them.(laughter)I am disappointed in every single person in this audience for what they just thought GLENN You're sick STU Wow, is that sick. I'm starting to side with the media on you. You know GLENN So the media always points to us, on the things that they do STU Yeah GLENN The things that they believe STU Yes. That's what they do GLENN So I'm going to move off of that point.Okay. So the guy in Louisville, that shot five people and killed them, at the Old National Bank in Louisville. You remember that story STU I do remember that story GLENN Yeah, okay. Okay. Remember how that was going to be, okay. We have to ban these guns Thirteen-page manifesto, which the Daily Mail has, allegedly disclosed that the 25-year-old shot and killed multiple colleagues, in part to prove his belief, that guns are too easy to obtain in Kentucky He wanted to draw attention to mental illness, something his parents later disclosed, he suffered from, and took medicine from Gun control backers latched on to the shooter's crime, to embolden Democrats to move forward with an unconstitutional red flag law and gun grabs. But that's what he wanted That's what was in his manifesto And, you know, let me just -- let me just say this. They are on -- they're on television And in public. Imagine if I were on the air, every day. And I said, those people for January 6th, I'm bailing all of them out I'm -- you know, I'm with all of them. Except for Ray Epps I'm for all of them And I think they did good. And we will bail them out. And provide them with attorneys. Anybody whoever does anything like that Do you think that that would encourage more people to do that? Be neutral, or discourage What do you think? They are telling people like, in Nashville, if you have a good reason, you're fine. You're totally fine STU Hmm GLENN In fact, you might be a hero. We'll bail you out We'll clean it up. We'll cover it up You just -- you just do your thing They are breeding killers STU Incentivizing the behavior GLENN Yes. Because they're all sick. All of them have a mental illness. You don't go and do this. Without a mental illness. So they are playing on -- they're souping up the people who have a mental illness. How many times have you ever -- let me rephrase that Have you ever heard anyone on any of these lefty talk shows, or CNN. You ever heard anyone say to their audience, be careful who you're surrounded by There are a lot of crazy leftists. There are also maybe people who want you to strike out and do these things Whatever you do. Don't That's not the way we do things We don't burn cities down. We don't riot We don't do those things. Have you ever heard them say that? No, you've heard them say the opposite, over and over and over again So when a guy shows up at a bank with a gun and kills five people, and he says in his manifesto, it's because Joe Biden is right. And all these people are right. We got to grab guns. Does that give anyone pause on what you're doing?Anything?No. Because with the left, the ends justify the means. And that should chill Americans to the bone What's the difference between killing five and 500,000 Ends justify the means. And America is going down the wrong path. And I just most Americans know it You just have to remind yourself all the time, who we are. Who we are. They're doing everything they can, to destroy our history. To destroy our values. Destroy our churches They're coming up This is a new religion This is a religion. Whether they like it or not They abandoned God long ago. And what Nietzsche said, was true. You can't just banish God It leaves a vacuum. And you will worship another God Well, that's what happened to a third of Germans They worshiped a God of science. And a mythological pagan-tile God And Adolf Hitler. And look where they -- look where they ended up And nobody stood up to stop them. Because the churches were too slow, too asleep. Too worried about losing things America is different. ",
+      "Content-Type": "text/html",
+      "owner": "7166c64f-418b-4424-b53c-b8fb7855a352",
+      "summary": "Who better to weigh in on the Tucker Carlson/Fox News drama than some of the cable news network’s biggest, former stars? In this clip, Glenn speaks to both Bill O’Reilly and Megyn Kelly about Tucker Carlson leaving the network. They both provide DIFFERENT theories as to why he and Fox News parted wa...",
+      "geo_primary": "32.8940924,-96.93915369999999",
+      "diff_date": 0,
+      "is_original": true,
+      "created": 1682457106589,
+      "url": "https://www.glennbeck.com/radio/bill-oreilly-megyn-kelly-tucker-carlson-fox-news",
+      "tags": [
+        "news",
+        "news-us",
+        "news-glob",
+        "news-us-tx"
+      ],
+      "processed": 1682457106668,
+      "is_original_title": false,
+      "filename": "Bill O’Reilly, Megyn Kelly give INSIDE VIEW on Tucker Carlson/Fox News",
+      "filename_pretty": "Bill O’Reilly, Megyn Kelly give INSIDE VIEW on Tucker Carlson/Fox News",
+      "domain": "glennbeck.com",
+      "Author": "Katarina Bradford",
+      "geo_secondary": [
+        "32.8940924,-96.93915369999999"
+      ],
+      "original_title_doc_id": "1419857159",
+      "publish_date": 1682457106,
+      "authors": [
+        "Katarina Bradford"
+      ]
+    },
+    "fields": {
+      "processed": [
+        "2023-04-25T21:11:46.668Z"
+      ],
+      "publish_date": [
+        "1970-01-20T11:20:57.106Z"
+      ],
+      "created": [
+        "2023-04-25T21:11:46.589Z"
+      ]
+    },
+    "highlight": {
+      "domain": [
+        "@opensearch-dashboards-highlighted-field@glennbeck.com@/opensearch-dashboards-highlighted-field@"
+      ]
+    },
+    "sort": [
+      1682457106589
+    ]
+  }
