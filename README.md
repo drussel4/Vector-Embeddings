@@ -45,7 +45,7 @@
 ## About The Project
 
 <div align="center">
-  <a href="src/media/sample.jpg">
+  <a href="src/results">
     <img src="src/media/sample.jpg" alt="sample">
   </a>
 </div>
