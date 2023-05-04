@@ -12,7 +12,7 @@
 
 <h3 align="left">Vector Embeddings</h3>
   <p align="left">
-    The goal of this analysis is to identify a news story's traction. After initial publish, what other outlets pick up the story? Do they regurgitate the article word-for-word, or rewrite and reference? What is the audience of the distributed story, do the subsequent outlets draw traffic back to the original article? And what, if any, relationship is there between the original publisher and subsequent sites?
+    The goal of this analysis is to identify a news story's traction. After initial publish, what other outlets pick up the story? Do they regurgitate the article word-for-word, or rewrite and reference? What is the size of the audience of the distributed story? Do the subsequent outlets draw traffic back to the original article? Are the sources credible, or do they have a history of spreading mis- or disinformation? And what, if any, relationship is there between the original publisher and subsequent sites?
   </p>
   <p align="left">
     This project sets out to begin answering those questions by using vector embeddings. Vector embeddings are a NLP method for calculating the similarity of two documents, or sentences. With a well-trained model, they allow us to measure the similarity between large batches of text, suggest the natural completion of a sentence, and more.
@@ -51,18 +51,13 @@
 </div>
 
 <p>
-Campaigns deserve accurate and holistic opposition reseach and data. For too long, reseach has been delivered in archaic and unweildy reports, hundreds if not thousands of pages long. The Tappan Explorer delivers those same high quality insights, cited with primary sources, in a CRM that is searchable, filterable, folderable, and overall -- easier to consume.
-</p>
+To calculate cosine-similarity, I used the "all-MiniLM-L6-v2" model from <a href="https://www.sbert.net/docs/pretrained_models.html">Sentence-Transformers</a>. After some trial-and-error, I set a hurdle rate of 0.50. This means that articles having a title or a body with cosine >=0.50 compared with the original publish were counted as "possibly similar" and retained. I arrived at the hurdle rate of 0.50 is based on:
+<ol>
+<li>The results in the Source Comp tab, where a 0.60 "possibly similar" hurdle rate suggested matches worth reviewing</li>
+<li>Reducing to 0.50 from 0.60 found ~50 more results, many of which are clear matches</li>
+</ol>
 <p>
-Used the "all-MiniLM-L6-v2" model from the Python module [Sentence-Transformers](https://www.sbert.net/docs/pretrained_models.html). Set a hurdle rate of 0.50, meaning articles having a title or a body with cosine >=0.50 compared with the original publish were counted as "possibly similar" and retained.
-</p>
-<p>
-Arrived at the hurdle rate of 0.50 is based on:
-* The results in the Source Comp tab, where a 0.60 "possibly similar" hurdle rate suggested matches worth reviewing
-* Reducing to 0.50 from 0.60 found ~50 more results, many of which are clear matches
-<i>Overall, the 0.50 hurdle rate is more accurately described as arbitrary than rigorously calibrated</i>
-63 (2.3%) articles passed the hurdle rate - rejected 2,677 (97.7%)
-* Of those passing, 6 surpassed the hurdle rate on both title & body, 37 exceeded on title, and 20 on body
+Overall, the 0.50 hurdle rate is more accurately described as arbitrary than rigorously calibrated. 63 (2.3%) articles passed the hurdle rate - rejected 2,677 (97.7%). Of those passing, 6 surpassed the hurdle rate on both title & body, 37 exceeded on title, and 20 on body
 </p>
 <p>
 
