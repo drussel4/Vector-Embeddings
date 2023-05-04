@@ -57,7 +57,7 @@ To calculate cosine-similarity, I used the "all-MiniLM-L6-v2" model from <a href
 <li>Reducing to 0.50 from 0.60 found ~50 more results, many of which are clear matches</li>
 </ol>
 <p>
-Overall, the 0.50 hurdle rate is more accurately described as arbitrary than rigorously calibrated. 63 (2.3%) articles passed the hurdle rate - rejected 2,677 (97.7%). Of those passing, 6 surpassed the hurdle rate on both title & body, 37 exceeded on title, and 20 on body
+Overall, the 0.50 hurdle rate is more accurately described as arbitrary than rigorously calibrated. 63 (2.3%) articles passed the hurdle rate and 2,677 (97.7%) were rejected. Of those passing, 6 surpassed the hurdle rate on <i>both title & body</i>, 37 exceeded on <i>title</i>, and 20 on <i>body</i>.
 </p>
 <p>
 
